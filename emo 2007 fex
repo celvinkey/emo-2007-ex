@@ -217,13 +217,13 @@ http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", NATIONAL GEOGRAPHIC
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
+https://cdnkbl1.useetv.com/joss/17/natgeopeople/chunklist_w877797645_b1344100_sleng.m3u8?enc=yRfZgU3HuaKvdikpZmVf6g&exp=1576321226
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", NAT GEO WILD 
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", OUTDOOR CHANNEL
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", DISCOVERY
-
+https://cdnbpp1.useetv.com/joss/17/disco/chunklist_w1064864397_b1344100_sleng.m3u8?enc=HUgGba6Smst7g6elnYDUuA&exp=1576321148
 #EXTINF:-1  group-title="PENGETAHUAN", 
 #EXTINF:-1  group-title="PENGETAHUAN", 
 #EXTINF:-1  group-title="PENGETAHUAN", 
@@ -236,6 +236,10 @@ TINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP)
 https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT 2
 https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", CHAMPIONS TV 1
+https://cdnbdsa1.useetv.com/joss/194/champion1/chunklist_w1994194503_b1344100_sleng.m3u8?enc=vJoOSe2T8V_2_KTSy66zhA&exp=1576320880
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", CHAMPIONS TV 2
+https://cdnbpp1.useetv.com/joss/194/champion2/chunklist_w707802884_b1344100_sleng.m3u8?enc=6bsWhAY9-2DzzJe8tbaaxg&exp=1576320989
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT USA
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 1 HD
@@ -243,11 +247,11 @@ https://cdnbpp1.useetv.com/joss/17/foxsport1/chunklist_w1604995353_b1344100_slen
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 2 HD
 https://cdnjt25.useetv.com/joss/17/foxsport2/chunklist_w492955217_b894100_sleng.m3u8?enc=XZkwAPkM9Auws4Ylis-54A&exp=1576320214
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 3 HD
-
+https://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist_w1201699258_b1344100_sleng.m3u8?enc=iJeHdUwDr4hCozCifqDUlA&exp=1576320459
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 1 ID
-
+https://cdnkbl2.useetv.com/joss/17/bein1/chunklist_w748371167_b894100_sleng.m3u8?enc=CVoU8rMd73HHch_y6IIIsw&exp=1576320628
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 2 ID
-
+https://edgejt7.useetv.com/joss/17/bein2/chunklist_w21333185_b1344100_sleng.m3u8?enc=VxzliropX7XpW11r9tSJGg&exp=1576320736
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 1
