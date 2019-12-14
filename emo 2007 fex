@@ -209,9 +209,6 @@ http://210.210.155.35/session/6f6388de-0197-11ea-8e41-c81f66f89318/uq2663/h/h19/
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIASI", NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VARIASI", NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", ANIMAL PLANET 
