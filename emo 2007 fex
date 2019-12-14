@@ -43,7 +43,7 @@ https://dl.dropbox.com/s/ooyykkqywfrscyh/Sctv.m3u8?dl=0
 https://dl.dropbox.com/s/zdwanaxp8nccuob/Indosiar.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR MPGE 4
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOKAL", ANTV
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="LOKAL", ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOKAL", ANTV (BACKUP)
 https://dl.dropbox.com/s/7cxn5m3jgks5nc9/ANTV.m3u8?dl=0
