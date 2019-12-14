@@ -133,8 +133,7 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (BACKUP 2)
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU3NjQwNTQyMX19fV19&Signature=cCTqoEzNWIWzYjp7NxSz4hjCEFgs97BljSSbQgzRn9n2fYDrwAsReFLzirwXBIXDnWtsLhNlH1DYV9R-x~kigJV2KZ0Ke6RItD4mYN7lW9vN8LIWEgy1lp6l~uSCSYlZW-RE2Y9YxIN8iMMEJZP0PVuz2yArvcI9z9rWWgEjJf9U3bGr89V1HuF5joPH3l4ECKL81wlcVschZAtzvizbVGps2WL3l7H2guax0JfndPvEY~G0b7ITeYbgaHBBlQyUgxbcjQjy0gpRzFZGpt7aPNMb01dXASscbzKalFvKdB0DmT5BVTfir4Saq1I2AXoPpcOY4tDhD9XLWNbTzGlcXg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD TH
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMMILY
@@ -240,11 +239,11 @@ https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT USA
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 1 HD
-https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
+https://cdnbpp1.useetv.com/joss/17/foxsport1/chunklist_w1604995353_b1344100_sleng.m3u8?enc=Ai1lD8BettUZJg_PGumSBw&exp=1576319884
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 2 HD
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://cdnjt25.useetv.com/joss/17/foxsport2/chunklist_w492955217_b894100_sleng.m3u8?enc=XZkwAPkM9Auws4Ylis-54A&exp=1576320214
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 3 HD
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 1 ID
 
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 2 ID
