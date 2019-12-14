@@ -201,14 +201,16 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIASI", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VARIASI", ARIRANG
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIASI", SONY ONE
 http://45.126.83.51/session/e7cdb510-a5a8-11e9-b3e6-a074a62c4134/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIASI", SONY GEM
 http://210.210.155.35/session/6f6388de-0197-11ea-8e41-c81f66f89318/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIASI", E!
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIASI", NBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIASI", NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 
 
 
