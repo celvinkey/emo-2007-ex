@@ -134,12 +134,12 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F24
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (BACKUP 2)
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD
-http://203.207.56.228/live/iptv005.m3u8
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU3NjQwNTQyMX19fV19&Signature=cCTqoEzNWIWzYjp7NxSz4hjCEFgs97BljSSbQgzRn9n2fYDrwAsReFLzirwXBIXDnWtsLhNlH1DYV9R-x~kigJV2KZ0Ke6RItD4mYN7lW9vN8LIWEgy1lp6l~uSCSYlZW-RE2Y9YxIN8iMMEJZP0PVuz2yArvcI9z9rWWgEjJf9U3bGr89V1HuF5joPH3l4ECKL81wlcVschZAtzvizbVGps2WL3l7H2guax0JfndPvEY~G0b7ITeYbgaHBBlQyUgxbcjQjy0gpRzFZGpt7aPNMb01dXASscbzKalFvKdB0DmT5BVTfir4Saq1I2AXoPpcOY4tDhD9XLWNbTzGlcXg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD TH
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM", HBO FAMMILY
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=3547FD40F49265BE63B0163ACBB40914F5C7BD1C&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="FILM", HBO FAMMILY (BACKUP)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1  group-title="FILM", 
 
@@ -151,7 +151,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463
 https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="FILM", RED BY HBO
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="FILM", RED BY HBO
 https://live.dufree4k.net/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM", GALAXY
 https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
