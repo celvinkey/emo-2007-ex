@@ -93,7 +93,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="ANAK", DISNEY CHANNEL
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="ANAK", DISNEY JUNIOR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8?rizkizakaria-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="ANAK", ANIMAX
@@ -102,7 +103,10 @@ http://bit.ly/2UJS2Ak
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="ANAK", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ANAK",
+#EXTINF:-1 tvg-logo="" group-title="ANAK", NICKELODEON ASIA
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="ANAK", CARTOON NETWORK
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="ANAK", MY KIDS
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
@@ -123,7 +127,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE ID
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="FILM", FOX CRIME
-
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1  group-title="FILM", 
 #EXTINF:-1  group-title="FILM", 
 
@@ -214,41 +218,39 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", ANIMAL PLANET 
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", NATIONAL GEOGRAPHIC
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", NAT GEO PEOPLE
-https://cdnkbl1.useetv.com/joss/17/natgeopeople/chunklist_w877797645_b1344100_sleng.m3u8?enc=yRfZgU3HuaKvdikpZmVf6g&exp=1576321226
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", NAT GEO WILD 
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", OUTDOOR CHANNEL
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", DISCOVERY
-https://cdnbpp1.useetv.com/joss/17/disco/chunklist_w1064864397_b1344100_sleng.m3u8?enc=HUgGba6Smst7g6elnYDUuA&exp=1576321148
-#EXTINF:-1  group-title="PENGETAHUAN", 
-#EXTINF:-1  group-title="PENGETAHUAN", 
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", DISCOVERY CHANNEL
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1  group-title="PENGETAHUAN", HISTORY
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1  group-title="PENGETAHUAN", ASIAN FOOD NETWORK
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1  group-title="PENGETAHUAN", 
 
 
  
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT
 https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
-TINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP)
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP)
 https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT 2
 https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", CHAMPIONS TV 1
-https://cdnbdsa1.useetv.com/joss/194/champion1/chunklist_w1994194503_b1344100_sleng.m3u8?enc=vJoOSe2T8V_2_KTSy66zhA&exp=1576320880
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", CHAMPIONS TV 2
-https://cdnbpp1.useetv.com/joss/194/champion2/chunklist_w707802884_b1344100_sleng.m3u8?enc=6bsWhAY9-2DzzJe8tbaaxg&exp=1576320989
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 1 HD
-https://cdnbpp1.useetv.com/joss/17/foxsport1/chunklist_w1604995353_b1344100_sleng.m3u8?enc=Ai1lD8BettUZJg_PGumSBw&exp=1576319884
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 2 HD
-https://cdnjt25.useetv.com/joss/17/foxsport2/chunklist_w492955217_b894100_sleng.m3u8?enc=XZkwAPkM9Auws4Ylis-54A&exp=1576320214
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT 3 HD
-https://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist_w1201699258_b1344100_sleng.m3u8?enc=iJeHdUwDr4hCozCifqDUlA&exp=1576320459
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 1 ID
-https://cdnkbl2.useetv.com/joss/17/bein1/chunklist_w748371167_b894100_sleng.m3u8?enc=CVoU8rMd73HHch_y6IIIsw&exp=1576320628
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 2 ID
-https://edgejt7.useetv.com/joss/17/bein2/chunklist_w21333185_b1344100_sleng.m3u8?enc=VxzliropX7XpW11r9tSJGg&exp=1576320736
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 1 
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BeIN SPORT 2 
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 1
@@ -290,15 +292,21 @@ https://dl.dropbox.com/s/p43mic4efu03lfl/Supersoccer.m3u8?dl=0
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV
-
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV ASIA
+https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV LIVE
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV CHINA
+https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", CHANNEL V
+https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", B-MUSIC KONSER
 https://dl.dropbox.com/s/ilke2g48rd1g5vz/Bkonser.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", B-MUSIC
 https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", THE COUNTRY NETWORK
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 
