@@ -158,10 +158,10 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E5
 https://live.dufree4k.net/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM", GALAXY
 https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="FILM", GALAXY PREMIUM
-
-#EXTINF:-1 tvg-logo="" group-title="FILM", 
-
+#EXTINF:-1 tvg-logo="" group-title="FILM", SYFY
+http://188.127.169.63:8000/play/a04s
+#EXTINF:-1 tvg-logo="" group-title="FILM", SYFY HD
+http://188.127.169.63:8000/play/a040
 #EXTINF:-1 tvg-logo="" group-title="FILM", &PRIVE
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 #EXTINF:-1 tvg-logo="" group-title="FILM", &FLIX
