@@ -318,7 +318,9 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?
 wowzasessionid=1566329228
 
 
-#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", USA (NJPW DAN WWE NETWORK)
+#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK PREMIUM
+http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?thebestfreeenglishchannels.m3u8
