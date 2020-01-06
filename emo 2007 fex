@@ -319,8 +319,10 @@ wowzasessionid=1566329228
 
 
 #EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK PREMIUM
-http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5538.m3u8
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1720
 #EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK
+US: WWE NETWORK | HD	Online	http://day1.fast.family/live/528?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?thebestfreeenglishchannels.m3u8
