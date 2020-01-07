@@ -107,8 +107,8 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="ANAK", CARTOON NETWORK
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="ANAK", MY KIDS
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANAK", HOREE
+https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 
@@ -194,9 +194,9 @@ https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM", CELESTIAL CLASSIC MOVIES
 http://iliketot.dyndns.TV/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
-#EXTINF:-1 tvg-logo="" group-title="FILM", TvN MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5htwmj3/TVN.png" group-title="FILM", TvN MOVIE
 https://dl.dropbox.com/s/2b6dbpwf0mmg9ad/TVN%20Movie.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="FILM", TvN MOVIE (BACKUP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5htwmj3/TVN.png" group-title="FILM", TvN MOVIE (BACKUP)
 https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
 
 
@@ -231,24 +231,26 @@ http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET 
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="PENGETAHUAN", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="PENGETAHUAN & EDUKASI", NATIONAL GEOGRAPHIC
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kL8NqVL/nat-Geo-pople.png" group-title="PENGETAHUAN", NAT GEO PEOPLE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kL8NqVL/nat-Geo-pople.png" group-title="PENGETAHUAN & EDUKASI", NAT GEO PEOPLE
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1VB0Wct/Nat-geo-wild.png" group-title="PENGETAHUAN", NAT GEO WILD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1VB0Wct/Nat-geo-wild.png" group-title="PENGETAHUAN & EDUKASI", NAT GEO WILD 
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Outdoor_Channel#/media/File:Outdoor_Channel_2017.png" group-title="PENGETAHUAN", OUTDOOR CHANNEL
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Outdoor_Channel#/media/File:Outdoor_Channel_2017.png" group-title="PENGETAHUAN & EDUKASI", OUTDOOR CHANNEL
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN & EDUKASI", DISCOVERY CHANNEL
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/History_(American_TV_channel)#/media/File:History_Logo.png"  group-title="PENGETAHUAN", HISTORY
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/History_(American_TV_channel)#/media/File:History_Logo.png"  group-title="PENGETAHUAN & EDUKASI", HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17"  group-title="PENGETAHUAN", ASIAN FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17"  group-title="PENGETAHUAN & EDUKASI", ASIAN FOOD NETWORK
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN", 
-
+#EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN & EDUKASI", SMITHSON
+https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
+#EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN & EDUKASI", LOVE NATURE
+https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
 
  
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT
@@ -258,10 +260,10 @@ https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT 2
 https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="OLAHRAGA", Champion TV 1
-
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
 
 #EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="OLAHRAGA", Champion TV 2
-https://dl.dropbox.com/s/p4o0w0q4u4qi1lf/champions2.m3u8?dl=0
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 1 HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
@@ -358,5 +360,40 @@ https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 
+#EXTINF:-1  group-title="DOBALL", 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+#EXTINF:-1  group-title="DOBALL", 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+
+
+
+
 #EXTINF:-1  group-title="", 
+
 
