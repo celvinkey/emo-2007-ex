@@ -277,6 +277,8 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", REDBULL TV (BACKUP)
+https://dl.dropbox.com/s/f7p3w2568tgmyki/Redbull.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 1
 https://sportbox.ws/lba/123/g2/btuk1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 1 (BACKUP)
@@ -301,7 +303,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SONY TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="UseeTV" group-title="OLAHRAGA", EGG NETWORK 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OLAHRAGA", EGG NETWORK 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", NBA HD
 https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
@@ -374,36 +376,22 @@ http://188.127.169.63:8000/play/a033
 https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u
 
 
-#EXTINF:-1  group-title="DOBALL", 1
+#EXTINF:-1  group-title="SIARAN ACAK", 1
+https://dl.dropbox.com/s/iuv41s0sxrg3mo3/Live1.m3u8?dl=0
+#EXTINF:-1  group-title="SIARAN ACAK", 2
+https://dl.dropbox.com/s/l4flpns7pmkzuv5/Live2.m3u8?dl=0
+#EXTINF:-1  group-title="SIARAN ACAK", 3
+https://dl.dropbox.com/s/vhmldfggh4noa8y/Live3.m3u8?dl=0
+#EXTINF:-1  group-title="SIARAN ACAK", 4
+https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
+#EXTINF:-1  group-title="SIARAN ACAK", 5
+https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
+#EXTINF:-1  group-title="SIARAN ACAK", 6
+https://dl.dropbox.com/s/6a4ieoakpcbil6a/Live6.m3u8?dl=0
+#EXTINF:-1  group-title="SIARAN ACAK", 7
+https://dl.dropbox.com/s/0nd8nxp82i8110n/Live7.m3u8?dl=0
+#EXTINF:-1  group-title="SIARAN ACAK", 8
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 2
-http://stream.doball.com:8080/hls/ch2.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 3
-http://stream.doball.com:8080/hls/ch3.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 4
-http://stream.doball.com:8080/hls/ch4.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 5
-http://stream.doball.com:8080/hls/ch5.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 6
-http://stream.doball.com:8080/hls/ch6.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 7
-http://stream.doball.com:8080/hls/ch7.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 8
-http://stream.doball.com:8080/hls/ch8.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 9
-http://stream.doball.com:8080/hls/ch9.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 10
-http://stream.doball.com:8080/hls/ch10.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 11
-http://stream.doball.com:8080/hls/ch11.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 12
-http://stream.doball.com:8080/hls/ch12.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 13
-http://stream.doball.com:8080/hls/ch13.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 14
-http://stream.doball.com:8080/hls/ch14.m3u8?feed
-#EXTINF:-1  group-title="DOBALL", 15
-http://stream.doball.com:8080/hls/ch15.m3u8?feed
 
 
 
