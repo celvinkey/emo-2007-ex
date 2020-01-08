@@ -357,18 +357,36 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV JEPANG", TV ASAHI
-http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?
-wowzasessionid=1566329228
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/KNTV_2008_Logo.png" group-title="TV AMERIKA", NBC BAY AREA
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:-1 tvg-logo="https://media.nbcmiami.com/2019/09/SouthFlorida_On_Dark@3x-1.png?fit=627%2C120" group-title="TV AMERIKA", NBC 6
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/800px-NBC_Sports_Bay_Area.png" group-title="TV AMERIKA", NBC SPORTS BAY AREA | HD
+http://day1.fast.family/live/550?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png" group-title="TV AMERIKA", NBC SPORTS BOSTON | HD
+http://day1.fast.family/live/546?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/800px-NBC_Sports_Chicago_Logo.svg.png" group-title="TV AMERIKA", NBC SPORTS CHICAGO | HD
+http://day1.fast.family/live/547?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/NBC_Sports_Northwest.png/800px-NBC_Sports_Northwest.png" group-title="TV AMERIKA", NBC SPORTS NORTHWEST | HD
+http://day1.fast.family/live/549?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/800px-NBC_Sports_Philadelphia.png" group-title="TV AMERIKA", NBC SPORTS PHILADELPHIA | HD
+http://day1.fast.family/live/545?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="SIARAN GULAT", UFC HD
 http://78.141.211.61:4000/8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WWE_Network#/media/File:WWE_Network_logo.png" group-title="SIARAN GULAT", WWE NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK
 http://day1.fast.family/live/528?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
 #EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/914675323739254548/72BC91BACB54ACEF498C3DB9D4C0E082F4C61B20/" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/New_Japan_Pro-Wrestling#/media/File:New_Japan_Pro_Wrestling_Logo_2.png" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/768px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?thebestfreeenglishchannels.m3u8
 #EXTINF:-1 tvg-logo="https://doublegsports.com/wp-content/uploads/2017/06/Impact-Wrestling-Global-Force-Wrestling-ImpactWrestling.com_.jpg" group-title="SIARAN GULAT", IMPACT WRESTLING
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -423,27 +441,25 @@ http://stream.doball.com:8080/hls/ch1.m3u8?feed
 
 
 #EXTINF:-1  group-title="TES SIARAN", 1
-http://190.80.3.28/NBC/NBC.isml/index.m3u8#EXTM3U
+
 #EXTINF:-1  group-title="TES SIARAN", 2
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 3
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/fluxustv.m3u8?fluxustv.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 4
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 5
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 6
-http://oxypro.greencloudwebsites.com/oxypro.php?http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 7
-http://161.0.157.8/PLTV/88888888/224/3221226800/index.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 8
-https://kxaslive-f.akamaihd.net/i/kxasb1_1@5492/master.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 9
-https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 10
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 #EXTINF:-1  group-title="TES SIARAN", 11
-https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
 #EXTINF:-1  group-title="TES SIARAN", 12
 #EXTINF:-1  group-title="TES SIARAN", 13
 #EXTINF:-1  group-title="TES SIARAN", 14
