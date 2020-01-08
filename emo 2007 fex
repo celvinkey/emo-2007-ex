@@ -40,7 +40,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="LOKAL", SCTV MPEG 2
 https://dl.dropbox.com/s/ooyykkqywfrscyh/Sctv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR MPEG 2
-https://dl.dropbox.com/s/zdwanaxp8nccuob/Indosiar.m3u8?dl=0
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR MPGE 4
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/800px-Antv_logo_%282017%29.svg.png" group-title="LOKAL", ANTV
@@ -64,8 +64,12 @@ http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="LOKAL", RTV
 https://dl.dropbox.com/s/ym6i7tz93jm5gvu/RTV.m3u8?dl=0
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/768px-CNN_Indonesia.svg.png" group-title="BERITA", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/800px-Cnn.svg.png" group-title="BERITA", CNN INTERNASIONAL
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="BERITA", iNEWS TV
 http://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BERITA", BERITA SATU WORLD
@@ -80,14 +84,19 @@ http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="BERITA", METRO TV HD
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BERITA", BBC WORLD NEWS
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Cnbc.png" group-title="BERITA", CNBC INTERNASIONAL
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BBC_World_News.svg/800px-BBC_World_News.svg.png" group-title="BERITA", BBC WORLD NEWS
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
 #EXTINF:-1 tvg-logo="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" group-title="BERITA", ABC NEWS AUSTRALIA
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/608px-CNA_new_logo.svg.png" group-title="BERITA", CHANNEL NEWS ASIA
 http://45.126.83.51/uq2663/h/h29/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/800px-Bloomberg_logo.svg.png" group-title="BERITA", BLOOMBERG TV ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/800px-Bloomberg_logo.svg.png" group-title="BERITA", BLOOMBERG INTERNASIONAL
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Fox_Sports_News_Australia_Logo.png" group-title="BERITA", FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
@@ -130,7 +139,8 @@ https://jago2.tv21.me/live/Rockstar1926/u8pe/premium/foxaction/index.m3u8
 http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE ID
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="FILM", 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE ID(BACKUP)
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1  group-title="FILM", 
 #EXTINF:-1  group-title="FILM", 
 
@@ -308,6 +318,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SONY TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SONY ESPN
+http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OLAHRAGA", EGG NETWORK 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", NBA HD
@@ -347,8 +359,8 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?
 wowzasessionid=1566329228
 
 
-#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK PREMIUM
-http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1720
+#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", UFC HD
+http://78.141.211.61:4000/8
 #EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK
 US: WWE NETWORK | HD	Online	http://day1.fast.family/live/528?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
 #EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
