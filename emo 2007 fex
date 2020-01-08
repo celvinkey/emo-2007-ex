@@ -74,11 +74,14 @@ http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C
 http://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BERITA", BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BERITA", KOMPASTV
-
-#EXTINF:-1 tvg-logo="" group-title="BERITA", TV ONE
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/798px-KOMPAS_TV_%282017%29.png" group-title="BERITA", KOMPAS TV
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/798px-KOMPAS_TV_%282017%29.png" group-title="BERITA", KOMPAS TV (BACKUP)
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/800px-TvOne_logo_2012.svg.png" group-title="BERITA", TV ONE
+https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/800px-TvOne_logo_2012.svg.png" group-title="BERITA", TV ONE (BACKUP)
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="BERITA", METRO TV SD
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
 
@@ -102,7 +105,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="ANAK", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="ANAK", DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="ANAK", DISNEY JUNIOR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8?rizkizakaria-
@@ -200,9 +203,9 @@ http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="FILM", IMC
 https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="FILM", CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.png" group-title="FILM", CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM", CELESTIAL CLASSIC MOVIES
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
 http://iliketot.dyndns.TV/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5htwmj3/TVN.png" group-title="FILM", TvN MOVIE
 https://dl.dropbox.com/s/2b6dbpwf0mmg9ad/TVN%20Movie.m3u8?dl=0
@@ -213,7 +216,7 @@ https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="VARIASI & HIBURAN", WARNER TV
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" group-title="VARIASI & HIBURAN", WARNER TV
 https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/asia.axn/files/logos/axn_0.png" group-title="VARIASI & HIBURAN", AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
@@ -241,7 +244,7 @@ http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET 
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="PENGETAHUAN & EDUKASI", NATIONAL GEOGRAPHIC
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
@@ -253,7 +256,7 @@ http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN & EDUKASI", DISCOVERY CHANNEL
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/History_(American_TV_channel)#/media/File:History_Logo.png"  group-title="PENGETAHUAN & EDUKASI", HISTORY
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/History_(American_TV_channel)#/media/File:History_Logo.png" group-title="PENGETAHUAN & EDUKASI", HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17"  group-title="PENGETAHUAN & EDUKASI", ASIAN FOOD NETWORK
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
@@ -335,9 +338,9 @@ https://dl.dropbox.com/s/p43mic4efu03lfl/Supersoccer.m3u8?dl=0
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV ASIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png?1578475435105" group-title="MUSIK", MTV ASIA
 https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV LIVE
+#EXTINF:-1 tvg-logo="https://pl.wikipedia.org/wiki/MTV_Live_HD#/media/Plik:MTV_Live_HD_2017_logo.png" group-title="MUSIK", MTV LIVE
 https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV CHINA
 https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
@@ -359,15 +362,15 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?
 wowzasessionid=1566329228
 
 
-#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", UFC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="SIARAN GULAT", UFC HD
 http://78.141.211.61:4000/8
-#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK
-US: WWE NETWORK | HD	Online	http://day1.fast.family/live/528?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
-#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WWE_Network#/media/File:WWE_Network_logo.png" group-title="SIARAN GULAT", WWE NETWORK
+http://day1.fast.family/live/528?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+#EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/914675323739254548/72BC91BACB54ACEF498C3DB9D4C0E082F4C61B20/" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/New_Japan_Pro-Wrestling#/media/File:New_Japan_Pro_Wrestling_Logo_2.png" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SIARAN GULAT", IMPACT WRESTLING
+#EXTINF:-1 tvg-logo="https://doublegsports.com/wp-content/uploads/2017/06/Impact-Wrestling-Global-Force-Wrestling-ImpactWrestling.com_.jpg" group-title="SIARAN GULAT", IMPACT WRESTLING
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 
@@ -377,43 +380,43 @@ https://dl.dropbox.com/s/bbm5se2x3tv6sdp/skysportepl.m3u8?dl=0
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yjm8C8w/True-premier-2.png" group-title="LIGA INGGRIS / PREMIERE LEAGUE", PREMIERE FOOTBALL 2 HD
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS / PREMIERE LEAGUE", PREMIERE LEAGUE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png" group-title="LIGA INGGRIS / PREMIERE LEAGUE", PREMIERE LEAGUE
 https://dl.dropbox.com/s/w1k356vshl0jt6h/beinss1.m3u8?dl=0
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV BAR
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV BAR
 https://sportzonline.co/channels/hd/hd6.php
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV
 https://cdn.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 2
 http://wuwza.com/footy/vip/beinlaliga-1.php
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 3
 http://188.127.169.63:8000/play/a033
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA
 https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u
 
-#EXTINF:-1 tvg-logo="" group-title="LIGA ITALIA / SERIE A", 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/Serie_A_logo_%282019%29.svg/581px-Serie_A_logo_%282019%29.svg.png" group-title="LIGA ITALIA / SERIE A", 1
 https://dl.dropbox.com/s/a01v9ex7xyyrpxx/itali.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="" group-title="LIGA PRANCIS / LIGUE 1", 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Logo_de_la_Ligue_1_%282008%29.svg/658px-Logo_de_la_Ligue_1_%282008%29.svg.png" group-title="LIGA PRANCIS / LIGUE 1", 1
 https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
 
 
-#EXTINF:-1  group-title="SIARAN ACAK", 1
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 1
 https://dl.dropbox.com/s/iuv41s0sxrg3mo3/Live1.m3u8?dl=0
-#EXTINF:-1  group-title="SIARAN ACAK", 2
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 2
 https://dl.dropbox.com/s/l4flpns7pmkzuv5/Live2.m3u8?dl=0
-#EXTINF:-1  group-title="SIARAN ACAK", 3
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 3
 https://dl.dropbox.com/s/vhmldfggh4noa8y/Live3.m3u8?dl=0
-#EXTINF:-1  group-title="SIARAN ACAK", 4
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 4
 https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
-#EXTINF:-1  group-title="SIARAN ACAK", 5
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 5
 https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
-#EXTINF:-1  group-title="SIARAN ACAK", 6
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 6
 https://dl.dropbox.com/s/6a4ieoakpcbil6a/Live6.m3u8?dl=0
-#EXTINF:-1  group-title="SIARAN ACAK", 7
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.pnghttp://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 7
 https://dl.dropbox.com/s/0nd8nxp82i8110n/Live7.m3u8?dl=0
-#EXTINF:-1  group-title="SIARAN ACAK", 8
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 8
 http://stream.doball.com:8080/hls/ch1.m3u8?feed
 
 
