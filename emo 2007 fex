@@ -371,26 +371,32 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Mobile-Logo.png?" group-title="LIGA INGGRIS", SKY SPORT PREMIERE LEAGUE
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Mobile-Logo.png?" group-title="LIGA INGGRIS / PREMIERE LEAGUE", SKY SPORT PREMIERE LEAGUE
 https://dl.dropbox.com/s/bbm5se2x3tv6sdp/skysportepl.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yjm8C8w/True-premier-1.png" group-title="LIGA INGGRIS", PREMIERE FOOTBALL 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yjm8C8w/True-premier-1.png" group-title="LIGA INGGRIS / PREMIERE LEAGUE", PREMIERE FOOTBALL 1 HD
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yjm8C8w/True-premier-2.png" group-title="LIGA INGGRIS", PREMIERE FOOTBALL 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yjm8C8w/True-premier-2.png" group-title="LIGA INGGRIS / PREMIERE LEAGUE", PREMIERE FOOTBALL 2 HD
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS", PREMIERE LEAGUE
+#EXTINF:-1 tvg-logo="" group-title="LIGA INGGRIS / PREMIERE LEAGUE", PREMIERE LEAGUE
 https://dl.dropbox.com/s/w1k356vshl0jt6h/beinss1.m3u8?dl=0
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL", LA LIGA TV BAR
+#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV BAR
 https://sportzonline.co/channels/hd/hd6.php
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL", LA LIGA TV
+#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV
 https://cdn.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL", LA LIGA TV 2
+#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 2
 http://wuwza.com/footy/vip/beinlaliga-1.php
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL", LA LIGA TV 3
+#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 3
 http://188.127.169.63:8000/play/a033
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL", LA LIGA
+#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL / LaLiga", LA LIGA
 https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="LIGA ITALIA / SERIE A", 1
+https://dl.dropbox.com/s/a01v9ex7xyyrpxx/itali.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="" group-title="LIGA PRANCIS / LIGUE 1", 1
+https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
 
 
 #EXTINF:-1  group-title="SIARAN ACAK", 1
