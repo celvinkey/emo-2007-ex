@@ -336,24 +336,22 @@ https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SUPER SOCCER
 https://dl.dropbox.com/s/p43mic4efu03lfl/Supersoccer.m3u8?dl=0
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png?1578475435105" group-title="MUSIK", MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png?1578475435105" group-title="MUSIK", MTV ASIA
 https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pl.wikipedia.org/wiki/MTV_Live_HD#/media/Plik:MTV_Live_HD_2017_logo.png" group-title="MUSIK", MTV LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/787px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIK", MTV LIVE
 https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV CHINA
 https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", CHANNEL V
 https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", B-MUSIC KONSER
-https://dl.dropbox.com/s/ilke2g48rd1g5vz/Bkonser.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", B-MUSIC
-https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", 
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", 
-
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 
 
@@ -385,7 +383,7 @@ http://78.141.211.61:4000/8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK (PREMIUM)
 http://s.igiptv.com:8000/Tamim/tamim123/60579
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK
-http://day1.fast.family/live/528?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/914675323739254548/72BC91BACB54ACEF498C3DB9D4C0E082F4C61B20/" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/768px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
