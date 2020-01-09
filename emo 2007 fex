@@ -382,6 +382,8 @@ http://day1.fast.family/live/545?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="SIARAN GULAT", UFC HD
 http://78.141.211.61:4000/8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK (PREMIUM)
+http://s.igiptv.com:8000/Tamim/tamim123/60579
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK
 http://day1.fast.family/live/528?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
 #EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/914675323739254548/72BC91BACB54ACEF498C3DB9D4C0E082F4C61B20/" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
@@ -389,8 +391,7 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/768px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?thebestfreeenglishchannels.m3u8
 #EXTINF:-1 tvg-logo="https://doublegsports.com/wp-content/uploads/2017/06/Impact-Wrestling-Global-Force-Wrestling-ImpactWrestling.com_.jpg" group-title="SIARAN GULAT", IMPACT WRESTLING
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
+https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/997452/2Fplaylist.m3u8?terminate=false&deviceId=-&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=7&advertisingId=&deviceLat=0&deviceLon=-&deviceDNT=0&deviceModel=&userId=&embedPartner=&appName=&serverSideAds=&architecture=&paln=
 
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Mobile-Logo.png?" group-title="LIGA INGGRIS / PREMIERE LEAGUE", SKY SPORT PREMIERE LEAGUE
 https://dl.dropbox.com/s/bbm5se2x3tv6sdp/skysportepl.m3u8?dl=0
