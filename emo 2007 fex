@@ -18,7 +18,7 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 #EXTINF:-1 tvg-logo="" group-title="USEE TV", 
 
 #EXTINF:-1 tvg-logo="https://tvri.go.id/assets/images/tvrilogo.png" group-title="LOKAL", TVRI
-http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+https://dl.dropbox.com/s/gfwcolcrly6yv7c/TVRI2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://tvri.go.id/assets/images/tvrilogo.png" group-title="LOKAL", TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvri.go.id/assets/images/tvrilogo.png" group-title="LOKAL", TVRI 3 BUDAYA
@@ -67,7 +67,7 @@ https://dl.dropbox.com/s/ym6i7tz93jm5gvu/RTV.m3u8?dl=0
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/768px-CNN_Indonesia.svg.png" group-title="BERITA", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+https://dl.dropbox.com/s/1tno4ahlb36dxd5/CNN%20Indo.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/800px-Cnn.svg.png" group-title="BERITA", CNN INTERNASIONAL
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="BERITA", iNEWS TV
@@ -87,7 +87,8 @@ http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="BERITA", METRO TV HD
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="BERITA", CNBC INDONESIA
+https://dl.dropbox.com/s/gszo3b4lv7n7rqe/CNBC.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Cnbc.png" group-title="BERITA", CNBC INTERNASIONAL
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BBC_World_News.svg/800px-BBC_World_News.svg.png" group-title="BERITA", BBC WORLD NEWS
@@ -179,17 +180,13 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E5
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM", GALAXY
 https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="FILM", SYFY
-http://188.127.169.63:8000/play/a04s
-#EXTINF:-1 tvg-logo="" group-title="FILM", SYFY HD
-http://188.127.169.63:8000/play/a040
-#EXTINF:-1 tvg-logo="" group-title="FILM", AMC
-http://62.203.143.51:9981/play/AMC
-#EXTINF:-1 tvg-logo="" group-title="FILM", &PRIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="FILM", &PRIVE
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:-1 tvg-logo="" group-title="FILM", &FLIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="FILM", &FLIX
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1 tvg-logo="" group-title="FILM", CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="FILM", SONY PIX
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="FILM", CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM", MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -199,10 +196,12 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 http://103.122.104.10:8000/play/a01g
 #EXTINF:-1 tvg-logo="" group-title="FILM", SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM", FLIX
+#EXTINF:-1 tvg-logo="" group-title="FILM", FLIK
 https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="FILM", IMC
 https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="FILM", MYTV
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.png" group-title="FILM", CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
@@ -293,9 +292,9 @@ https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BeIN SPORT 2 
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", REDBULL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Red_Bull.svg/800px-Red_Bull.svg.png" group-title="OLAHRAGA", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", REDBULL TV (BACKUP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Red_Bull.svg/800px-Red_Bull.svg.png" group-title="OLAHRAGA", REDBULL TV (BACKUP)
 https://dl.dropbox.com/s/f7p3w2568tgmyki/Redbull.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 1
 https://sportbox.ws/lba/123/g2/btuk1.m3u8
@@ -315,26 +314,22 @@ http://45.126.83.51/uq2663/h/h05/index2.m3u8
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1301-Mobile-Logo.png?" group-title="OLAHRAGA", SKY SPORT MAIN EVENT
 https://dl.dropbox.com/s/tmqwxrtoudpk0ck/skysportmain.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", RACING.COM (AUSTRALIA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/800px-RACING.COM_logo_2016.svg.png" group-title="OLAHRAGA", RACING.COM (AUSTRALIA)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SONY TEN 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FpYX6yGLmpM/XCdxGu4_D_I/AAAAAAAAAAc/LVirYeQ2BHcUo5byscy1swM82nTWMYIhgCLcBGAs/s1600/powervu-key-sony-ten-1-hd-terbaru-2019.jpg" group-title="OLAHRAGA", SONY TEN 1
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fx2CdgsEsO4/XOV-QnfyV5I/AAAAAAAAFNc/5Jmct6LfKUo7o0gggvNvaPnc70EZOWbxwCLcBGAs/s1600/Sony%2BTEN%2B2%2BIntelSat%2B20.jpg" group-title="OLAHRAGA", SONY TEN 2
 http://163.172.85.133:8080/TenS/1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SONY TEN 3
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="OLAHRAGA", SONY TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SONY ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/800px-Sony_ESPN_logo.svg.png" group-title="OLAHRAGA", SONY ESPN
 http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OLAHRAGA", EGG NETWORK 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", NBA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png" group-title="OLAHRAGA", NBA HD INDONESIA
 https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", NBA HD (BACKUP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png" group-title="OLAHRAGA", NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", GOLF HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", TENNIS HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", SUPER SOCCER
-https://dl.dropbox.com/s/p43mic4efu03lfl/Supersoccer.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png?1578475435105" group-title="MUSIK", MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
@@ -342,6 +337,8 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/787px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIK", MTV LIVE
 https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/783px-MTV_Hits_2017_logo.svg.png" group-title="MUSIK", MTV HITS
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV CHINA
 https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", CHANNEL V
@@ -375,6 +372,25 @@ http://day1.fast.family/live/545?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/800px-BBC_One_logo.svg.png" group-title="TV INGGRIS", BBC ONE
+https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/800px-BBC_Two.svg.png" group-title="TV INGGRIS", BBC TWO
+https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BBC_Three_logo.svg/768px-BBC_Three_logo.svg.png" group-title="TV INGGRIS", BBC THREE
+https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV INGGRIS", 
+#EXTINF:-1 tvg-logo="" group-title="TV INGGRIS", 
+
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Mobile-Logo.png" group-title="SKY TV", SKY SPORT ACTION
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Mobile-Logo.png" group-title="SKY TV", SKY SPORT FOOTBALL
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1302-Mobile-Logo.png" group-title="SKY TV", SKY SPORT CRICKET
+http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
 
 
 
@@ -440,7 +456,7 @@ http://stream.doball.com:8080/hls/ch1.m3u8?feed
 
 
 #EXTINF:-1  group-title="TES SIARAN", 1
-
+http://streamer.multitvsolution.in//live//MultiplexCinema-e//p4.m3u8
 #EXTINF:-1  group-title="TES SIARAN", 2
 
 #EXTINF:-1  group-title="TES SIARAN", 3
