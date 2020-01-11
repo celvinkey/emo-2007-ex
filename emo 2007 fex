@@ -433,6 +433,8 @@ http://uv2.sinantena.live:9966/VIPgrupotaquillas/E3KMQhHiHO/595
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/Serie_A_logo_%282019%29.svg/581px-Serie_A_logo_%282019%29.svg.png" group-title="LIGA ITALIA / SERIE A", 1
 https://dl.dropbox.com/s/a01v9ex7xyyrpxx/itali.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/Serie_A_logo_%282019%29.svg/581px-Serie_A_logo_%282019%29.svg.png" group-title="LIGA ITALIA / SERIE A", 2
+https://dl.dropbox.com/s/tjlkcxhgdb29dul/beib2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Logo_de_la_Ligue_1_%282008%29.svg/658px-Logo_de_la_Ligue_1_%282008%29.svg.png" group-title="LIGA PRANCIS / LIGUE 1", 1
 https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
