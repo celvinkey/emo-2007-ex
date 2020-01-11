@@ -418,18 +418,18 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 https://dl.dropbox.com/s/w1k356vshl0jt6h/beinss1.m3u8?dl=0
 
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV BAR
-http://188.127.169.63:8000/play/a04q
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV BAR HD
-http://188.127.169.63:8000/play/a02t
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/800px-Movistar_LaLiga.svg.png" group-title="LIGA SPANYOL / LaLiga", MOVISTAR LA LIGA
-http://188.127.169.63:8000/play/a04t
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 2
-http://188.127.169.63:8000/play/a02y
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 3
-http://188.127.169.63:8000/play/a033
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA
-http://62.210.103.33:9090/play/a02y
+http://uv2.sinantena.live:9966/VIPgrupotaquillas/E3KMQhHiHO/597
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV BAR FHD
+http://uv2.sinantena.live:9966/VIPgrupotaquillas/E3KMQhHiHO/598
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/800px-Movistar_LaLiga.svg.png" group-title="LIGA SPANYOL / LaLiga", MOVISTAR LA LIGA HD
+http://uv2.sinantena.live:9966/VIPgrupotaquillas/E3KMQhHiHO/4606
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/800px-Movistar_LaLiga.svg.png" group-title="LIGA SPANYOL / LaLiga", MOVISTAR LA LIGA FHD
+http://uv2.sinantena.live:9966/VIPgrupotaquillas/E3KMQhHiHO/4605
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 1 HD
+http://uv2.sinantena.live:9966/VIPgrupotaquillas/E3KMQhHiHO/594
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/La_Liga.png" group-title="LIGA SPANYOL / LaLiga", LA LIGA TV 1 FHD
+http://uv2.sinantena.live:9966/VIPgrupotaquillas/E3KMQhHiHO/595
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e1/Serie_A_logo_%282019%29.svg/581px-Serie_A_logo_%282019%29.svg.png" group-title="LIGA ITALIA / SERIE A", 1
 https://dl.dropbox.com/s/a01v9ex7xyyrpxx/itali.m3u8?dl=0
