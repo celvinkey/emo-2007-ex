@@ -204,7 +204,7 @@ https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.png" group-title="FILM", CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
-https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue
+https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="userfiles/image/channel/channel_109.png" group-title="FILM", TvN MOVIE
 http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="FILM", TvN MOVIE (BACKUP)
@@ -327,12 +327,15 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/800px-Sony_ESPN_logo.svg.png" group-title="OLAHRAGA", SONY ESPN
 http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OLAHRAGA", EGG NETWORK 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png" group-title="OLAHRAGA", NBA HD INDONESIA
 https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png" group-title="OLAHRAGA", NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="OLAHRAGA ELEKTRONIK", EGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/800px-GINX_Esports_TV_Logo_flat.png" group-title="OLAHRAGA ELEKTRONIK", GINX ESPORT
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/340
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png?1578475435105" group-title="MUSIK", MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
