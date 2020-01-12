@@ -309,6 +309,8 @@ https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 https://dl.dropbox.com/s/6a4ieoakpcbil6a/Live6.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT ESPN HD
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
+#EXTINF:-1 tvg-logo="https://20xqzw3baoah1okcnok3737p-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/EDGESport.jpg" group-title="OLAHRAGA", EDGE SPORT
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FIGHT SPORT HD
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FIGHT SPORT HD (BACKUP)
@@ -367,8 +369,10 @@ http://day1.fast.family/live/547?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6
 http://day1.fast.family/live/549?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/800px-NBC_Sports_Philadelphia.png" group-title="TV AMERIKA", NBC SPORTS PHILADELPHIA | HD
 http://day1.fast.family/live/545?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/American_Broadcasting_Company_2013_Logo.png" group-title="TV AMERIKA", ABC
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CON TV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
@@ -382,7 +386,8 @@ https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BBC_Three_logo.svg/768px-BBC_Three_logo.svg.png" group-title="TV INGGRIS", BBC THREE
 https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV INGGRIS", 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/768px-CBBC_2016_logo.svg.png" group-title="TV INGGRIS", CBBC
+
 #EXTINF:-1 tvg-logo="" group-title="TV INGGRIS", 
 
 
