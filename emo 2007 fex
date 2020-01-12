@@ -373,11 +373,13 @@ http://day1.fast.family/live/549?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/800px-NBC_Sports_Philadelphia.png" group-title="TV AMERIKA", NBC SPORTS PHILADELPHIA | HD
 http://day1.fast.family/live/545?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/American_Broadcasting_Company_2013_Logo.png" group-title="TV AMERIKA", ABC
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CON TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", VOA PST
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", VOA EST
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 
@@ -391,7 +393,14 @@ https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/768px-CBBC_2016_logo.svg.png" group-title="TV INGGRIS", CBBC
 
-#EXTINF:-1 tvg-logo="" group-title="TV INGGRIS", 
+#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", AUSTRALIA CHANNEL
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
+#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
+
 
 
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Mobile-Logo.png" group-title="SKY TV", SKY SPORT ACTION
