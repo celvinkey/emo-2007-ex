@@ -269,19 +269,19 @@ https://dl.dropbox.com/s/26tghhn7gim8rx3/Foodrecipy.m3u8?dl=0
 #EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN & EDUKASI", TASTY
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 
-
- 
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT
-https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
+ https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP)
+https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP 1)
 https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT 2
 https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="OLAHRAGA", Champion TV 1
-https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="OLAHRAGA", Champion TV 2
-https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 1 HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
@@ -472,7 +472,13 @@ https://dl.dropbox.com/s/6a4ieoakpcbil6a/Live6.m3u8?dl=0
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 7
 https://dl.dropbox.com/s/0nd8nxp82i8110n/Live7.m3u8?dl=0
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 8
-http://stream.doball.com:8080/hls/ch1.m3u8?feed
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 9
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 10
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 11
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 12
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 13
 
 
 
