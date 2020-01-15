@@ -478,13 +478,13 @@ http://stream.doball.com:8080/hls/ch1.m3u8?feed
 
 
 #EXTINF:-1  group-title="TES SIARAN", 1
-http://streamer.multitvsolution.in//live//MultiplexCinema-e//p4.m3u8
+http://87.219.167.116:8005/play/a0ig
 #EXTINF:-1  group-title="TES SIARAN", 2
-
+http://87.219.167.116:8005/play/a0hn
 #EXTINF:-1  group-title="TES SIARAN", 3
-
+http://87.219.167.116:8005/play/a0hd
 #EXTINF:-1  group-title="TES SIARAN", 4
-
+http://87.219.167.116:8005/play/a0hq
 #EXTINF:-1  group-title="TES SIARAN", 5
 
 #EXTINF:-1  group-title="TES SIARAN", 6
