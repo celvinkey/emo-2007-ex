@@ -29,11 +29,11 @@ http://id2.indostreamingtv.com/live/nettv/index.m3u8
 https://dl.dropbox.com/s/4x6avyxdo9mc2ph/NET%20TV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2642q4E.png" group-title="LOKAL", Trans TV
 https://dl.dropbox.com/s/qezmsvc5xnn79ik/Transtv.m3u8?dl=0
-#EXTINF:-1 tvg-id="TRANS TV HD" tvg-name="TRTV" tvg-logo="https://i.imgur.com/2642q4E.png" group-title="LOKAL", Trans TV (BACKUP)
+#EXTINF:-1 tvg-id="TRTV" tvg-name="TRANS TV HD" tvg-logo="https://i.imgur.com/2642q4E.png" group-title="LOKAL", Trans TV (BACKUP)
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="LOKAL", Trans 7
 https://dl.dropbox.com/s/2qcygwjj8l4brtj/Trans7.m3u8?dl=0
-#EXTINF:-1 tvg-id="TRANS7 HD" tvg-name="TR7" tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="LOKAL", Trans 7 (BACKUP)
+#EXTINF:-1 tvg-id="TR7" tvg-name="TRANS7 HD" tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="LOKAL", Trans 7 (BACKUP)
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="LOKAL", SCTV MPEG 4
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
