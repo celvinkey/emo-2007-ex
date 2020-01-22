@@ -272,10 +272,12 @@ https://dl.dropbox.com/s/26tghhn7gim8rx3/Foodrecipy.m3u8?dl=0
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT
- https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+https://dl.dropbox.com/s/ghbo9eb2b0w793i/useeSPORT.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP)
-https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP 1)
+https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP 2)
 https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT 2
 https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
@@ -367,282 +369,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 http://77.243.93.194/68602.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", SYFY
 http://77.243.93.194/68795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", HGTV
-http://77.243.93.194/49830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", TNT
-http://77.243.93.194/42642.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", AMC NETWORK
-http://77.243.93.194/69586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", A&E NETWORK
-http://77.243.93.194/104897.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", BET
-http://77.243.93.194/73973.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CBS (WCBS – New York NY)
-http://77.243.93.194/16689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FOX (WNYW – New York NY)
-http://77.243.93.194/20360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", NBC (WNBCDT – New York NY)
-http://77.243.93.194/20459.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", TBS
-http://77.243.93.194/68685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", MSG
-http://77.243.93.194/35402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", MSG+
-http://77.243.93.194/35383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", SPORTS NET NY
-http://77.243.93.194/50081.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FS1
-http://77.243.93.194/94653.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FS1 4K
-http://77.243.93.194/123917.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FS2
-http://77.243.93.194/69553.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", NBCSN
-http://77.243.93.194/48671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CBSSN
-http://77.243.93.194/69495.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", MSNBC
-http://77.243.93.194/75083.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", BeIN SPORTS
-http://77.243.93.194/88749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", beIN SPORTS En Español
-http://77.243.93.194/88754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", TUDN
-http://77.243.93.194/88839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", ZONA FUTBOL
-http://77.243.93.194/126463.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FOX DEPORTES
-http://77.243.93.194/83701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", NFL NETWORK
-http://77.243.93.194/45409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", NBA TV
-http://77.243.93.194/45537.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", THE GOLF CHANNEL
-http://77.243.93.194/72411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", TENNIS CHANNEL
-http://77.243.93.194/70668.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", BIG TEN NETWORK
-http://77.243.93.194/71605.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", PAC-12 NETWORK
-http://77.243.93.194/88172.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CNN HD
-http://77.243.93.194/68822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FOX NEWS CHANNEL
-http://77.243.93.194/70522.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CNN INTERNATIONAL HD
-http://77.243.93.194/95267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", HLN
-http://77.243.93.194/75436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", NEWSY
-http://77.243.93.194/109944.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CNBC
-http://77.243.93.194/68971.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CNBC WORLD
-http://77.243.93.194/26849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FOX BUSINESS NETWORK
-http://77.243.93.194/68900.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CHEDDAR STREAM
-http://77.243.93.194/114796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", DIY
-http://77.243.93.194/78575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FOOD NETWORK
-http://77.243.93.194/50791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", COOKING CHANNEL
-http://77.243.93.194/79312.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", TRAVEL CHANNEL
-http://77.243.93.194/69551.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FYI CHANNEL
-http://77.243.93.194/69200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", AMERICAN HEROES CHANNEL
-http://77.243.93.194/90696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", ANIMAL PLANET
-http://77.243.93.194/67512.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", BBC AMERICA
-http://77.243.93.194/75368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", BRAVO
-http://77.243.93.194/68797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CARTOON NETWORK EAST
-http://77.243.93.194/105088.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", DISCOVERY FAMILY CHANNEL
-http://77.243.93.194/78969.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", ADULT SWIM EAST
-http://77.243.93.194/105087.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CMT
-http://77.243.93.194/69697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", COMEDY CENTRAL
-http://77.243.93.194/73033.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", COMET
-http://77.243.93.194/110223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", COZI
-http://77.243.93.194/102430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", DESTINATION AMERICA
-http://77.243.93.194/70835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", DISCOVERY
-http://77.243.93.194/67013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", DISCOVERY LIFE
-http://77.243.93.194/104830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", E! Entertainment Television
-http://77.243.93.194/72360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", FUSE
-http://77.243.93.194/69345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", GREAT AMERICA COUNTRY
-http://77.243.93.194/95030.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", GAME SHOW NETWORK
-http://77.243.93.194/80167.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", GET TV
-http://77.243.93.194/94674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", Hallmark Channel
-http://77.243.93.194/77355.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", Hallmark Movies & Mysteries
-http://77.243.93.194/46730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", Hallmark Drama
-http://77.243.93.194/119725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", History Channel
-http://77.243.93.194/104898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", IFC
-http://77.243.93.194/69701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", INSP
-http://77.243.93.194/11066.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", INVESTIGATION DISCOVERY
-http://77.243.93.194/76327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", LIFETIME
-http://77.243.93.194/104899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", LIVETIME MOVIE NETWORK
-http://77.243.93.194/104900.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", LOGO
-http://77.243.93.194/110114.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", MTV
-http://77.243.93.194/71401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", OXYGEN
-http://77.243.93.194/81949.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", OWN
-http://77.243.93.194/81808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", PARAMOUNT NETWORK
-http://77.243.93.194/69429.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", People TV
-http://77.243.93.194/121733.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", POP
-http://77.243.93.194/80136.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Science
-http://77.243.93.194/67508.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Smithsonian Channel
-http://77.243.93.194/68703.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Sony Movie Channel
-http://77.243.93.194/80496.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", SundanceTV
-http://77.243.93.194/82739.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TLC
-http://77.243.93.194/67509.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Turner Classic Movies
-http://77.243.93.194/75156.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", truTV
-http://77.243.93.194/75366.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TV Land
-http://77.243.93.194/85147.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", VH1
-http://77.243.93.194/70365.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Viceland
-http://77.243.93.194/104894.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", WE tv
-http://77.243.93.194/69543.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", CBS (WLNY-New York NY)
-http://77.243.93.194/31225.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Telemundo (WNJU-DT – New York NY)
-http://77.243.93.194/54552.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", UNIVISION (WXTV-New York NY)
-http://77.243.93.194/12001.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", UniMás (WFUT-New York NY)
-http://77.243.93.194/35364.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Galavisión
-http://77.243.93.194/79698.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", NBC Universo
-http://77.243.93.194/104156.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", MotorTrend
-http://77.243.93.194/31046.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Olympic Channel
-http://77.243.93.194/118008.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Stadium
-http://77.243.93.194/118905.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TVG
-http://77.243.93.194/21345.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", beIN SPORTS 4
-http://77.243.93.194/105107.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", beIN SPORTS 5
-http://77.243.93.194/105103.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", beIN SPORTS 6
-http://77.243.93.194/105101.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", beIN SPORTS 7
-http://77.243.93.194/105102.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", beIN SPORTS 8
-http://77.243.93.194/105100.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 1
-http://77.243.93.194/126876.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 2
-http://77.243.93.194/126878.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 3
-http://77.243.93.194/126879.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 4
-http://77.243.93.194/126881.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 5
-http://77.243.93.194/126882.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 6
-http://77.243.93.194/126883.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 7
-http://77.243.93.194/126884.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 8
-http://77.243.93.194/126885.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 9
-http://77.243.93.194/126888.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 10
-http://77.243.93.194/126889.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TUDNxtra 11
-http://77.243.93.194/126890.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", BET Her
-http://77.243.93.194/73952.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", BET Jams
-http://77.243.93.194/30419.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", BET Soul
-http://77.243.93.194/18718.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", MTV2
-http://77.243.93.194/86781.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", MTV Classic
-http://77.243.93.194/104879.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", MTV Live
-http://77.243.93.194/49175.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", MTVU
-http://77.243.93.194/44229.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", REVOLT
-http://77.243.93.194/95255.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Boomerang
-http://77.243.93.194/21883.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Nickelodeon
-http://77.243.93.194/69687.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Nick Jr.
-http://77.243.93.194/94767.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", NickMusic
-http://77.243.93.194/30418.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Nicktoons
-http://77.243.93.194/30420.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", TeenNick
-http://77.243.93.194/110217.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Universal Kids
-http://77.243.93.194/81646.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", MSG2
-http://77.243.93.194/81705.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", MSG+2
-http://77.243.93.194/81707.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Big Ten Network Alternate
-http://77.243.93.194/84686.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Big Ten Network Alternate
-http://77.243.93.194/94683.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Big Ten Network Alternate
-http://77.243.93.194/94684.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Stadium 1
-http://77.243.93.194/109524.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Stadium 2
-http://77.243.93.194/109621.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TV AMERIKA", Stadium 3
-http://77.243.93.194/109622.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
@@ -685,6 +411,163 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="SPORT USA", ACC NETWORK
+http://cdn2.rasp.tv/1570.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/800px-BeIN_Sports.png" group-title="SPORT USA", BeIn SPORT
+http://cdn2.rasp.tv/1569.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="SPORT USA", BeIN SPORTS EN ESPANOL
+http://cdn2.rasp.tv/1568.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", BIG TEN NETWORK
+http://cdn2.rasp.tv/4450.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CBS SPORTS NETWORK
+http://cdn2.rasp.tv/7523.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN BAY AREA
+http://cdn2.rasp.tv/1566.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN BAY AREA PLUS
+http://cdn2.rasp.tv/1567.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN BAY BOSTON
+http://cdn2.rasp.tv/1565.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CALIFORNIA
+http://cdn2.rasp.tv/1563.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CALIFORNIA PLUS
+http://cdn2.rasp.tv/1564.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CHICAGO
+http://cdn2.rasp.tv/1562.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CHICAGO PLUS
+http://cdn2.rasp.tv/1561.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN MID ATLANTIC
+http://cdn2.rasp.tv/1560.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN NEW ENGLAND
+http://cdn2.rasp.tv/1559.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN NORTHWEST
+http://cdn2.rasp.tv/1558.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN PHILADELPHIA
+http://cdn2.rasp.tv/1556.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN PHILADELPHIA PLUS
+http://cdn2.rasp.tv/1557.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN WASHINGTON
+http://cdn2.rasp.tv/1554.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN WASHINGTON PLUS
+http://cdn2.rasp.tv/1555.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", FIGHT NETWORK
+http://cdn2.rasp.tv/1535.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", FOX SPORTS 1
+http://cdn2.rasp.tv/1529.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", FOX SPORTS 2
+http://cdn2.rasp.tv/1528.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", GOLF CHANNEL
+http://cdn2.rasp.tv/1494.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", SPORTS US: MLB NETWORK
+http://cdn2.rasp.tv/1492.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MLBN STRIKEZONE
+http://cdn2.rasp.tv/1491.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG
+http://cdn2.rasp.tv/4480.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG PLUS
+http://cdn2.rasp.tv/6430.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG 2
+http://cdn2.rasp.tv/6431.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG 2 PLUS
+http://cdn2.rasp.tv/6432.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", NBCSN
+http://cdn2.rasp.tv/7912.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", NESN
+http://cdn2.rasp.tv/1488.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", NESN PLUS
+http://cdn2.rasp.tv/1489.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", OLYMPIC CHANNEL
+http://cdn2.rasp.tv/1422.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", PAC-12 NETWORK
+http://cdn2.rasp.tv/5560.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", SPORTSNET LA DODGERS
+http://cdn2.rasp.tv/4479.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", SPORTSNET LA LAKERS
+http://cdn2.rasp.tv/4478.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", TENNIS CHANNEL
+http://cdn2.rasp.tv/4482.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", UFC FIGHT PASS
+http://cdn2.rasp.tv/1484.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", WILLOW CRICKET
+http://cdn2.rasp.tv/5558.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", WWE NETWORK
+http://cdn2.rasp.tv/1483.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", FANTASY SPORTS
+http://cdn2.rasp.tv/2692.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", FIGHT NETWORK
+http://cdn2.rasp.tv/2693.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET 360
+http://cdn2.rasp.tv/2723.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET EAST
+http://cdn2.rasp.tv/2724.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET ONE
+http://cdn2.rasp.tv/2725.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET ONTARIO
+http://cdn2.rasp.tv/2726.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET PACIFIC
+http://cdn2.rasp.tv/2727.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET WEST
+http://cdn2.rasp.tv/2728.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET WORLD
+http://cdn2.rasp.tv/2729.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 1
+http://cdn2.rasp.tv/2731.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 2
+http://cdn2.rasp.tv/2732.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 3
+http://cdn2.rasp.tv/2733.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 4
+http://cdn2.rasp.tv/2734.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 5
+http://cdn2.rasp.tv/2735.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TVA SPORTS
+http://cdn2.rasp.tv/6441.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TVA SPORTS 2
+http://cdn2.rasp.tv/6440.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/800px-BBC_One_logo.svg.png" group-title="TV INGGRIS", BBC ONE
@@ -717,10 +600,12 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="SIARAN GULAT", UFC HD
 http://78.141.211.61:4000/8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/800px-UFC_Fight_Pass_Logo.svg.png" group-title="SIARAN GULAT", UFC FIGHT PASS
+http://cdn2.rasp.tv/1484.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK (PREMIUM)
 http://s.igiptv.com:8000/Tamim/tamim123/60579
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK
-http://cdnak10.cast4u.info/channels/4/10804.m3u8
+http://cdn2.rasp.tv/1483.ts
 #EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/914675323739254548/72BC91BACB54ACEF498C3DB9D4C0E082F4C61B20/" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/768px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
