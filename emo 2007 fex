@@ -125,27 +125,26 @@ https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID (PREMIUM)
-https://jago1.tv21.me/live/Rockstar1926/u8pe/premium/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID MNC PLAY
+https://liveanevia.mncnow.id/live/eds/Fox/sa_hls/Fox.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID (PREMIUM)
-https://jago2.tv21.me/live/Rockstar1926/u8pe/premium/foxmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID MNC PLAY
+https://liveanevia.mncnow.id/live/eds/FoxMovies/sa_hls/FoxMovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID (BACKUP)
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES (PREMIUM) 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE ID
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES MNC PLAY 
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE MNC PLAY
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxLife.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE ID(BACKUP)
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1  group-title="FILM", 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM", STAR CHINESE MOVIE MNC PLAY
+https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies.m3u8
 #EXTINF:-1  group-title="FILM", 
 
 
@@ -153,9 +152,9 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 https://jago2.tv21.me/live/Rockstar1926/u8pe/premium/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE MNC PLAY
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS (PREMIUM)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS MNC PLAY
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
@@ -207,13 +206,16 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="userfiles/image/channel/channel_109.png" group-title="FILM", TvN MOVIE
 https://liveanevia.mncnow.id/live/eds/tvNMovie/sa_hls/tvNMovie.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="FILM", TvN MOVIE (BACKUP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="FILM", TvN MNC PLAY
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1024px-Fox_life_logo.svg.png" group-title="VARIASI & HIBURAN", FOX LIFE MNC PLAY
+https://liveanevia.mncnow.id/live/eds/FoxLife/sa_hls/FoxLife.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1024px-Fox_Crime_2017.svg.png" group-title="VARIASI & HIBURAN", FOX CRIME MNC PLAY
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="VARIASI & HIBURAN", FX MNC PLAY
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" group-title="VARIASI & HIBURAN", WARNER TV
 https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/asia.axn/files/logos/axn_0.png" group-title="VARIASI & HIBURAN", AXN
@@ -246,6 +248,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET 
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET MNC PLAY
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="PENGETAHUAN & EDUKASI", NATIONAL GEOGRAPHIC
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kL8NqVL/nat-Geo-pople.png" group-title="PENGETAHUAN & EDUKASI", NAT GEO PEOPLE
@@ -340,8 +344,6 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/800px-GINX_Esports_TV_Logo_flat.png" group-title="OLAHRAGA ELEKTRONIK", GINX ESPORT
 http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/340
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/800px-GINX_Esports_TV_Logo_flat.png" group-title="OLAHRAGA ELEKTRONIK", GINX ESPORT (BACKUP)
-http://77.243.93.194/109608.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png?1578475435105" group-title="MUSIK", MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
@@ -364,9 +366,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/800px-USA_Network_logo_%282006%29.svg.png" group-title="TV AMERIKA", USA NETWORK
-http://77.243.93.194/68602.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", SYFY
-http://77.243.93.194/68795.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
@@ -410,160 +410,12 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="SPORT USA", ACC NETWORK
-http://cdn2.rasp.tv/1570.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/800px-BeIN_Sports.png" group-title="SPORT USA", BeIn SPORT
-http://cdn2.rasp.tv/1569.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="SPORT USA", BeIN SPORTS EN ESPANOL
-http://cdn2.rasp.tv/1568.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", BIG TEN NETWORK
-http://cdn2.rasp.tv/4450.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CBS SPORTS NETWORK
-http://cdn2.rasp.tv/7523.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN BAY AREA
-http://cdn2.rasp.tv/1566.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN BAY AREA PLUS
-http://cdn2.rasp.tv/1567.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN BAY BOSTON
-http://cdn2.rasp.tv/1565.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CALIFORNIA
-http://cdn2.rasp.tv/1563.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CALIFORNIA PLUS
-http://cdn2.rasp.tv/1564.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CHICAGO
-http://cdn2.rasp.tv/1562.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN CHICAGO PLUS
-http://cdn2.rasp.tv/1561.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN MID ATLANTIC
-http://cdn2.rasp.tv/1560.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN NEW ENGLAND
-http://cdn2.rasp.tv/1559.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN NORTHWEST
-http://cdn2.rasp.tv/1558.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN PHILADELPHIA
-http://cdn2.rasp.tv/1556.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN PHILADELPHIA PLUS
-http://cdn2.rasp.tv/1557.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN WASHINGTON
-http://cdn2.rasp.tv/1554.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", CSN WASHINGTON PLUS
-http://cdn2.rasp.tv/1555.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", FIGHT NETWORK
-http://cdn2.rasp.tv/1535.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", FOX SPORTS 1
-http://cdn2.rasp.tv/1529.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", FOX SPORTS 2
-http://cdn2.rasp.tv/1528.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", GOLF CHANNEL
-http://cdn2.rasp.tv/1494.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", SPORTS US: MLB NETWORK
-http://cdn2.rasp.tv/1492.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MLBN STRIKEZONE
-http://cdn2.rasp.tv/1491.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG
-http://cdn2.rasp.tv/4480.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG PLUS
-http://cdn2.rasp.tv/6430.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG 2
-http://cdn2.rasp.tv/6431.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", MSG 2 PLUS
-http://cdn2.rasp.tv/6432.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", NBCSN
-http://cdn2.rasp.tv/7912.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", NESN
-http://cdn2.rasp.tv/1488.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", NESN PLUS
-http://cdn2.rasp.tv/1489.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", OLYMPIC CHANNEL
-http://cdn2.rasp.tv/1422.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", PAC-12 NETWORK
-http://cdn2.rasp.tv/5560.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", SPORTSNET LA DODGERS
-http://cdn2.rasp.tv/4479.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", SPORTSNET LA LAKERS
-http://cdn2.rasp.tv/4478.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", TENNIS CHANNEL
-http://cdn2.rasp.tv/4482.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", UFC FIGHT PASS
-http://cdn2.rasp.tv/1484.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", WILLOW CRICKET
-http://cdn2.rasp.tv/5558.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", WWE NETWORK
-http://cdn2.rasp.tv/1483.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", FANTASY SPORTS
-http://cdn2.rasp.tv/2692.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", FIGHT NETWORK
-http://cdn2.rasp.tv/2693.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET 360
-http://cdn2.rasp.tv/2723.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET EAST
-http://cdn2.rasp.tv/2724.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET ONE
-http://cdn2.rasp.tv/2725.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET ONTARIO
-http://cdn2.rasp.tv/2726.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET PACIFIC
-http://cdn2.rasp.tv/2727.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET WEST
-http://cdn2.rasp.tv/2728.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", SPORTSNET WORLD
-http://cdn2.rasp.tv/2729.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 1
-http://cdn2.rasp.tv/2731.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 2
-http://cdn2.rasp.tv/2732.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 3
-http://cdn2.rasp.tv/2733.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 4
-http://cdn2.rasp.tv/2734.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TSN 5
-http://cdn2.rasp.tv/2735.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TVA SPORTS
-http://cdn2.rasp.tv/6441.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT CANADA", TVA SPORTS 2
-http://cdn2.rasp.tv/6440.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
-#EXTINF:-1 tvg-logo="" group-title="SPORT USA", 
+
+
 
 
 
@@ -577,13 +429,7 @@ https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", AUSTRALIA CHANNEL
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AUSTRALIA", 
+
 
 
 
@@ -679,13 +525,13 @@ https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
 
 
 #EXTINF:-1  group-title="TES SIARAN", 1
-http://161.0.157.7/PLTV/88888888/224/3221227013/index.m3u8
+http://live.fadev.club/live/HBO/playlist.m3u8
 #EXTINF:-1  group-title="TES SIARAN", 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 3
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 4
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
 #EXTINF:-1  group-title="TES SIARAN", 5
 
 #EXTINF:-1  group-title="TES SIARAN", 6
