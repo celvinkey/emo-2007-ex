@@ -110,6 +110,10 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="ANAK", DISNEY JUNIOR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8?rizkizakaria-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="ANAK",DISNEY XD MNC PLAY
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
+#EXTINF:-1 tvg-logo="http://www.knowledgekids.ca/sites/default/files/styles/porthole/public/program/porthole/Porthole_LCI_Porthole_Default.png?itok=_zZJReDx" group-title="ANAK",CBeebies MNC PLAY
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="ANAK", ANIMAX
 http://bit.ly/2UJS2Ak
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="ANAK", ANIMAX (BACKUP)
@@ -122,35 +126,40 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="ANAK", HOREE
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i0.wp.com/lh3.googleusercontent.com/C_jE0MSAHY96irfNDYtjHmBlxgdTWYjFMuI5LbQrMKb7sELhh50CIBxWGyawfrs8Ig=h220" group-title="ANAK",Kids Channel
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID MNC PLAY
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID OFFLINE
 https://liveanevia.mncnow.id/live/eds/Fox/sa_hls/Fox.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID MNC PLAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID MNC PLAY OFFLINE
 https://liveanevia.mncnow.id/live/eds/FoxMovies/sa_hls/FoxMovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID (BACKUP)
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES MNC PLAY 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES MNC PLAY OFFLINE
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE MNC PLAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE MNC PLAY OFFLINE
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxLife.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE ID(BACKUP)
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM", STAR CHINESE MOVIE MNC PLAY
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM", STAR CHINESE MOVIE OFFLINE
 https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies.m3u8
 #EXTINF:-1  group-title="FILM", 
 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO (PREMIUM)
 https://jago2.tv21.me/live/Rockstar1926/u8pe/premium/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD OFFLINE
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE MNC PLAY
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
@@ -160,12 +169,12 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS (BACKUP)
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY OFFLINE
 https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (PREMIUM)
-https://liveanevia.mncnow.id/live/eds/Cinemax/sa_hls/Cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID OFFLINE
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (BACKUP)
@@ -240,10 +249,16 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 http://45.126.83.51/session/e7cdb510-a5a8-11e9-b3e6-a074a62c4134/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjxGZYs2/Sony-Gem.png" group-title="VARIASI & HIBURAN", SONY GEM
 http://210.210.155.35/session/6f6388de-0197-11ea-8e41-c81f66f89318/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="VARIASI & HIBURAN", WAKU WAKU JAPAN
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2018/11/arirang-tv.jpg.pagespeed.ce.iLfw5icWiG.jpg" group-title="VARIASI & HIBURAN",Arirang
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/253pHZHc/E-entertainment.png" group-title="VARIASI & HIBURAN", E!
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NBC_2014_Ident_Style.png" group-title="VARIASI & HIBURAN", NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET 
@@ -258,12 +273,18 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB86
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Outdoor_Channel#/media/File:Outdoor_Channel_2017.png" group-title="PENGETAHUAN & EDUKASI", OUTDOOR CHANNEL
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="PENGETAHUAN & EDUKASI",BBC Earth
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN & EDUKASI", DISCOVERY CHANNEL
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/History_(American_TV_channel)#/media/File:History_Logo.png" group-title="PENGETAHUAN & EDUKASI", HISTORY
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN & EDUKASI",DISCOVERY CHANNEL MNC PLAY
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/HGTV-Logo-1-1.jpg" group-title="PENGETAHUAN & EDUKASI",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="PENGETAHUAN & EDUKASI", ASIAN FOOD NETWORK
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/732px-History_Logo.svg.png" group-title="PENGETAHUAN & EDUKASI", HISTORY
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/800px-VOA_logo.svg.png" group-title="PENGETAHUAN & EDUKASI", VOA INDONESIA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN & EDUKASI", SMITHSON
@@ -355,9 +376,10 @@ https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", MTV CHINA
 https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", CHANNEL V
-https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIK", 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSE0kJWf-RCmLa4tTuedF23MOKeOVm50UjxhxA_EqN067qGVaeO" group-title="MUSIK",Channel V
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_111.png" group-title="MUSIK",Music TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
