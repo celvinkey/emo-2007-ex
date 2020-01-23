@@ -161,9 +161,9 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS (BACKUP)
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMMILY
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=3547FD40F49265BE63B0163ACBB40914F5C7BD1C&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMMILY (BACKUP)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY
+https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (PREMIUM)
 https://liveanevia.mncnow.id/live/eds/Cinemax/sa_hls/Cinemax.m3u8
@@ -206,9 +206,9 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
 https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="userfiles/image/channel/channel_109.png" group-title="FILM", TvN MOVIE
-http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+https://liveanevia.mncnow.id/live/eds/tvNMovie/sa_hls/tvNMovie.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="FILM", TvN MOVIE (BACKUP)
-
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 
 
 
