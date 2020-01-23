@@ -152,11 +152,11 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO (PREMIUM)
 https://jago2.tv21.me/live/Rockstar1926/u8pe/premium/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS (PREMIUM)
-https://jago1.tv21.me/live/Rockstar1926/u8pe/premium/hbohits/index.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS (BACKUP)
@@ -166,7 +166,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=3547FD40F49265BE63
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (PREMIUM)
-https://jago1.tv21.me/live/Rockstar1926/u8pe/premium/cinemax/index.m3u8
+https://liveanevia.mncnow.id/live/eds/Cinemax/sa_hls/Cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (BACKUP)
@@ -288,13 +288,11 @@ https://dl.dropbox.com/s/xdfnpe97qcgn8hf/usee2.m3u8?dl=0
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 1 HD
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 2 HD
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 3 HD
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FOX SPORT BRAZIL HD
-http://198.255.23.18:2095/streams/56_.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BeIN SPORT 1 
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BeIN SPORT 2 
