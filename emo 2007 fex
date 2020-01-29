@@ -35,13 +35,15 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 https://dl.dropbox.com/s/2qcygwjj8l4brtj/Trans7.m3u8?dl=0
 #EXTINF:-1 tvg-id="TR7" tvg-name="TRANS7 HD" tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="LOKAL", Trans 7 (BACKUP)
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="LOKAL", SCTV MPEG 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="LOKAL", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="LOKAL", SCTV MPEG 2
-https://dl.dropbox.com/s/ooyykkqywfrscyh/Sctv.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR MPEG 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="LOKAL", SCTV BACKUP
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR 
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR BACKUP
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR MPGE 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL", INDOSIAR BACKUP 1
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/800px-Antv_logo_%282017%29.svg.png" group-title="LOKAL", ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
@@ -94,7 +96,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BBC_World_News.svg/800px-BBC_World_News.svg.png" group-title="BERITA", BBC WORLD NEWS
 http://195.142.109.181:8013
 #EXTINF:-1 tvg-logo="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" group-title="BERITA", ABC NEWS AUSTRALIA
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/608px-CNA_new_logo.svg.png" group-title="BERITA", CHANNEL NEWS ASIA
 http://45.126.83.51/uq2663/h/h29/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/800px-Bloomberg_logo.svg.png" group-title="BERITA", BLOOMBERG TV ASIA
@@ -120,6 +122,10 @@ http://bit.ly/2UJS2Ak
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="ANAK", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/432Q57gV/nickjr.png" group-title="ANAK",Nick Jr
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZZmcc0/Nickelodeon.png" group-title="ANAK",Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANAK", NICKELODEON ASIA
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="ANAK", CARTOON NETWORK
@@ -173,17 +179,17 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS (BACKUP)
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY OFFLINE
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY 
+
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID OFFLINE
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID BACKUP 1
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (BACKUP)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID BACKUP 2
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID (BACKUP 2)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID BACKUP 3
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="FILM", RED BY HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
@@ -215,8 +221,10 @@ https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.png" group-title="FILM", CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/800px-CMC_English_full_color_black_text_2.png" group-title="FILM", CELESTIAL MOVIES BACKUP
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="FILM", TvN MOVIE
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="FILM", TvN MNC PLAY
@@ -224,12 +232,14 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1024px-Fox_life_logo.svg.png" group-title="VARIASI & HIBURAN", FOX LIFE MNC PLAY
-https://liveanevia.mncnow.id/live/eds/FoxLife/sa_hls/FoxLife.m3u8
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1024px-Fox_Crime_2017.svg.png" group-title="VARIASI & HIBURAN", FOX CRIME MNC PLAY
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="VARIASI & HIBURAN", FX MNC PLAY
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" group-title="VARIASI & HIBURAN", WARNER TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" group-title="VARIASI & HIBURAN", WARNER TV BACKUP
 https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/asia.axn/files/logos/axn_0.png" group-title="VARIASI & HIBURAN", AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
@@ -271,27 +281,37 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET 
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN & EDUKASI", ANIMAL PLANET MNC PLAY
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="PENGETAHUAN & EDUKASI", NATIONAL GEOGRAPHIC
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkf07S7c/natgeo.png" group-title="PENGETAHUAN & EDUKASI", NATIONAL GEOGRAPHIC BACKUP
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kL8NqVL/nat-Geo-pople.png" group-title="PENGETAHUAN & EDUKASI", NAT GEO PEOPLE
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kL8NqVL/nat-Geo-pople.png" group-title="PENGETAHUAN & EDUKASI", BACKUP
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1VB0Wct/Nat-geo-wild.png" group-title="PENGETAHUAN & EDUKASI", NAT GEO WILD 
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1VB0Wct/Nat-geo-wild.png" group-title="PENGETAHUAN & EDUKASI", NAT GEO WILD BACKUP
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Outdoor_Channel#/media/File:Outdoor_Channel_2017.png" group-title="PENGETAHUAN & EDUKASI", OUTDOOR CHANNEL
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="PENGETAHUAN & EDUKASI",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN & EDUKASI", DISCOVERY CHANNEL
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN & EDUKASI",DISCOVERY CHANNEL MNC PLAY
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="PENGETAHUAN & EDUKASI",DISCOVERY CHANNEL BACKUP
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/HGTV-Logo-1-1.jpg" group-title="PENGETAHUAN & EDUKASI",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="PENGETAHUAN & EDUKASI", ASIAN FOOD NETWORK
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="PENGETAHUAN & EDUKASI", ASIAN FOOD NETWORK BACKUP
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/732px-History_Logo.svg.png" group-title="PENGETAHUAN & EDUKASI", HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/732px-History_Logo.svg.png" group-title="PENGETAHUAN & EDUKASI", HISTORY BACKUP
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/800px-VOA_logo.svg.png" group-title="PENGETAHUAN & EDUKASI", VOA INDONESIA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN & EDUKASI", SMITHSON
@@ -334,6 +354,10 @@ http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BeIN SPORT 2 
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dc/MNCSports_tegak.png" group-title="OLAHRAGA",MNC SPORT
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/VkVyN0Cz/Soccer-Channel.png" group-title="OLAHRAGA",Soccer Channel 
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Red_Bull.svg/800px-Red_Bull.svg.png" group-title="OLAHRAGA", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Red_Bull.svg/800px-Red_Bull.svg.png" group-title="OLAHRAGA", REDBULL TV (BACKUP)
@@ -354,9 +378,11 @@ https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://20xqzw3baoah1okcnok3737p-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/EDGESport.jpg" group-title="OLAHRAGA", EDGE SPORT
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FIGHT SPORT HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/445SdHDj/fightsports280.png" group-title="OLAHRAGA", FIGHT SPORT HD
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/445SdHDj/fightsports280.png" group-title="OLAHRAGA", FIGHT SPORT HD BACKUP
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", FIGHT SPORT HD (BACKUP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/445SdHDj/fightsports280.png" group-title="OLAHRAGA", FIGHT SPORT HD BACKUP 1
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1301-Mobile-Logo.png?" group-title="OLAHRAGA", SKY SPORT MAIN EVENT
 https://dl.dropbox.com/s/tmqwxrtoudpk0ck/skysportmain.m3u8?dl=0
