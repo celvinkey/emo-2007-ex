@@ -114,7 +114,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8?rizkizakaria-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="ANAK",DISNEY XD MNC PLAY
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
-#EXTINF:-1 tvg-logo="http://www.knowledgekids.ca/sites/default/files/styles/porthole/public/program/porthole/Porthole_LCI_Porthole_Default.png?itok=_zZJReDx" group-title="ANAK",CBeebies MNC PLAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6f/CBeebies.png" group-title="ANAK",CBeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="ANAK", ANIMAX
 http://bit.ly/2UJS2Ak
@@ -122,17 +122,17 @@ http://bit.ly/2UJS2Ak
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="ANAK", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/432Q57gV/nickjr.png" group-title="ANAK",Nick Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/800px-Nick_Jr._logo_2009.svg.png" group-title="ANAK",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZZmcc0/Nickelodeon.png" group-title="ANAK",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ANAK", NICKELODEON ASIA
+#EXTINF:-1 tvg-logo="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/08/after.png" group-title="ANAK", NICKELODEON ASIA
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="ANAK", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="ANAK", CARTOON NETWORK
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="ANAK", HOREE
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/lh3.googleusercontent.com/C_jE0MSAHY96irfNDYtjHmBlxgdTWYjFMuI5LbQrMKb7sELhh50CIBxWGyawfrs8Ig=h220" group-title="ANAK",Kids Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/KidsChannel.png/800px-KidsChannel.png" group-title="ANAK",Kids Channel
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANAK", DREAMWORKS
 https://dl.dropbox.com/s/9m8llnou1kokigs/dreamworks.m3u8?dl=0
@@ -356,7 +356,7 @@ https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dc/MNCSports_tegak.png" group-title="OLAHRAGA",MNC SPORT
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/VkVyN0Cz/Soccer-Channel.png" group-title="OLAHRAGA",Soccer Channel 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkVyN0Cz/Soccer-Channel.png" group-title="OLAHRAGA",Soccer Channel 
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Red_Bull.svg/800px-Red_Bull.svg.png" group-title="OLAHRAGA", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
