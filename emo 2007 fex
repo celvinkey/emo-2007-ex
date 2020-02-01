@@ -237,7 +237,7 @@ http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNqpV5QQ/Blue-ant-entertainment.png" group-title="VARIASI & HIBURAN", BLUE ANT ENTERTAIMENT (BACKUP)
 https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZHrwsg0/kix.png" group-title="VARIASI & HIBURAN", KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMBLHZmm/Thrill.png" group-title="VARIASI & HIBURAN", THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIASI & HIBURAN", K+
@@ -314,9 +314,9 @@ https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
 https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT 2
 https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="OLAHRAGA", Champion TV 1
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1.png"OLAHRAGA", Champion TV 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="OLAHRAGA", Champion TV 2
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="OLAHRAGA", Champion TV 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 1 HD BACKUP
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
