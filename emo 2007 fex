@@ -69,7 +69,7 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="BERITA", METRO TV
 https://anevia115.mncnow.id:443/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="BERITA", CNBC INDONESIA
-https://dl.dropbox.com/s/gszo3b4lv7n7rqe/CNBC.m3u8?dl=0
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Cnbc.png" group-title="BERITA", CNBC INTERNASIONAL
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BBC_World_News.svg/800px-BBC_World_News.svg.png" group-title="BERITA", BBC WORLD NEWS
@@ -88,9 +88,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="ANAK", DISNEY CHANNEL
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="ANAK", DISNEY JUNIOR ID
-http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8?rizkizakaria-
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="ANAK",DISNEY XD MNC PLAY
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6f/CBeebies.png" group-title="ANAK",CBeebies
@@ -108,7 +108,9 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_100000
 #EXTINF:-1 tvg-logo="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/08/after.png" group-title="ANAK", NICKELODEON ASIA
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="ANAK", CARTOON NETWORK
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/790px-Boomerang_2014_logo.svg.png" group-title="ANAK", BOOMERANG
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANAK", HOREE
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/KidsChannel.png/800px-KidsChannel.png" group-title="ANAK",Kids Channel
@@ -123,8 +125,8 @@ https://dl.dropbox.com/s/4h2dl5itdsjpwwp/spacetoonplus.m3u8?dl=0
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID OFFLINE
-https://liveanevia.mncnow.id/live/eds/Fox/sa_hls/Fox.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID test
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID (BACKUP)
@@ -210,11 +212,11 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1024px-Fox_life_logo.svg.png" group-title="VARIASI & HIBURAN", FOX LIFE MNC PLAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1024px-Fox_life_logo.svg.png" group-title="VARIASI & HIBURAN", FOX LIFE
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1024px-Fox_Crime_2017.svg.png" group-title="VARIASI & HIBURAN", FOX CRIME MNC PLAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1024px-Fox_Crime_2017.svg.png" group-title="VARIASI & HIBURAN", FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="VARIASI & HIBURAN", FX MNC PLAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="VARIASI & HIBURAN", FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" group-title="VARIASI & HIBURAN", WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
@@ -237,7 +239,7 @@ https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZHrwsg0/kix.png" group-title="VARIASI & HIBURAN", KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMBLHZmm/Thrill.png" group-title="VARIASI & HIBURAN", THRILL
-http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIASI & HIBURAN", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4C8T6Hq/sony-one.png" group-title="VARIASI & HIBURAN", SONY ONE
