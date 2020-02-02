@@ -73,9 +73,9 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/69/Cnbc.png" group-title="BERITA", CNBC INTERNASIONAL
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BBC_World_News.svg/800px-BBC_World_News.svg.png" group-title="BERITA", BBC WORLD NEWS
-http://195.142.109.181:8013
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
 #EXTINF:-1 tvg-logo="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" group-title="BERITA", ABC NEWS AUSTRALIA
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/608px-CNA_new_logo.svg.png" group-title="BERITA", CHANNEL NEWS ASIA
 http://45.126.83.51/uq2663/h/h29/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/800px-Bloomberg_logo.svg.png" group-title="BERITA", BLOOMBERG TV ASIA
@@ -237,6 +237,8 @@ http://210.210.155.35/session/6f6388de-0197-11ea-8e41-c81f66f89318/uq2663/h/h19/
 https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="VARIASI & HIBURAN", WAKU WAKU JAPAN
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png" group-title="VARIASI & HIBURAN", ABC AUSTRALIA
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 #EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2018/11/arirang-tv.jpg.pagespeed.ce.iLfw5icWiG.jpg" group-title="VARIASI & HIBURAN",Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/253pHZHc/E-entertainment.png" group-title="VARIASI & HIBURAN", E!
@@ -277,9 +279,9 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="PENGETAHUAN & EDUKASI", ASIAN FOOD NETWORK BACKUP
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/732px-History_Logo.svg.png" group-title="PENGETAHUAN & EDUKASI", HISTORY
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/732px-History_Logo.svg.png" group-title="PENGETAHUAN & EDUKASI", HISTORY BACKUP
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="PENGETAHUAN & EDUKASI", CRIME INVESTIGATION
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/800px-VOA_logo.svg.png" group-title="PENGETAHUAN & EDUKASI", VOA INDONESIA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN & EDUKASI", SMITHSON
@@ -299,18 +301,12 @@ https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="OLAHRAGA", Champion TV 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 1 HD BACKUP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="OLAHRAGA", FOX SPORT 1
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 1 HD
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/800px-Fox_Sports_2_Asia.jpg" group-title="OLAHRAGA", FOX SPORT 2
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 2 BACKUP
-http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/ff/Fox_Sports_3_Asia.jpg" group-title="OLAHRAGA", FOX SPORT 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA", FOX SPORT 3 BACKUP
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BeIN SPORT 1 
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", BeIN SPORT 2 
