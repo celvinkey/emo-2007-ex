@@ -116,21 +116,17 @@ https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/KidsChannel.png/800px-KidsChannel.png" group-title="ANAK",Kids Channel
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANAK", DREAMWORKS
-https://dl.dropbox.com/s/9m8llnou1kokigs/dreamworks.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="" group-title="ANAK", SPACETOON PLUS
-https://dl.dropbox.com/s/4h2dl5itdsjpwwp/spacetoonplus.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX ID (BACKUP)
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID MNC PLAY OFFLINE
 https://liveanevia.mncnow.id/live/eds/FoxMovies/sa_hls/FoxMovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID
@@ -152,26 +148,17 @@ https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies
 https://jago2.tv21.me/live/Rockstar1926/u8pe/premium/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD OFFLINE
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE MNC PLAY
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS MNC PLAY
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS (BACKUP)
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID BACKUP 1
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID BACKUP 2
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID BACKUP 3
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="FILM", RED BY HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM", MGM THE WORKS
@@ -304,15 +291,9 @@ https://dl.dropbox.com/s/26tghhn7gim8rx3/Foodrecipy.m3u8?dl=0
 #EXTINF:-1 tvg-logo=""  group-title="PENGETAHUAN & EDUKASI", TASTY
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/IndiSport2-20rb_05.jpg" group-title="OLAHRAGA", USEE SPORT
 https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP)
-https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP 1)
-https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT (BACKUP 2)
-https://dl.dropbox.com/s/u7b73nfdx0o1okk/usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", USEE SPORT 2
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/indisport2/images/UseeSport-2-HD.png" group-title="OLAHRAGA", USEE SPORT 2
 https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1.png"OLAHRAGA", Champion TV 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
@@ -343,13 +324,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Red_Bull.svg/800px-Red_Bull.svg.png" group-title="OLAHRAGA", REDBULL TV (BACKUP)
 https://dl.dropbox.com/s/f7p3w2568tgmyki/Redbull.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 1
-https://sportbox.ws/lba/123/g2/btuk1.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 1 (BACKUP)
-https://sportbar.biz/lba/123/g2/btuk1.m3u8
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 2
-https://sportbox.ws/lba/123/g3/ukbt2sport.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 2 (BACKUP)
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 3
 https://dl.dropbox.com/s/6a4ieoakpcbil6a/Live6.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT ESPN HD
