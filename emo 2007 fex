@@ -145,9 +145,7 @@ https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies
 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO (PREMIUM)
-https://jago2.tv21.me/live/Rockstar1926/u8pe/premium/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO HD OFFLINE
-https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
+https://anevia115.mncnow.id:443/live/eds/HBO/sa_hls/HBO-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
@@ -212,9 +210,7 @@ https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/asia.axn/files/logos/axn_0.png" group-title="VARIASI & HIBURAN", AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQ491Rz/diva.png" group-title="VARIASI & HIBURAN", DIVA ID
-http://45.126.83.51/session/3ef41892-49ed-11e9-a2c7-b422b82ded18/uq2663/h/h11/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQ491Rz/diva.png" group-title="VARIASI & HIBURAN", DIVA ID (BACKUP)
-http://210.210.155.35/uq2663/h/h11/index.m3u8
+https://anevia115.mncnow.id:443/live/eds/DIVA/sa_hls/DIVA-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/768px-Lifetime_logo17.svg.png" group-title="VARIASI & HIBURAN", LIFETIME
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/650xP0Tr/Blue-ant-Extreme.png" group-title="VARIASI & HIBURAN", BLUE ANT EXTREME
