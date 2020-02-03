@@ -448,7 +448,7 @@ https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1301-Mobile-Logo.png?" group-title="OLAHRAGA", SKY SPORT MAIN EVENT
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1301-Mobile-Logo.png?" group-title="SKY TV", SKY SPORT MAIN EVENT
 https://cstream5.com/hls/skysports1.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Mobile-Logo.png" group-title="SKY TV", SKY SPORT ACTION
 https://cstream5.com/hls/skysportsaction.m3u8
