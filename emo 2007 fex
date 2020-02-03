@@ -144,7 +144,7 @@ https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies
 #EXTINF:-1  group-title="FILM", 
 
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO (PREMIUM)
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO
 https://anevia115.mncnow.id:443/live/eds/HBO/sa_hls/HBO-avc1_499968=11.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
@@ -337,8 +337,6 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_249996
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/445SdHDj/fightsports280.png" group-title="OLAHRAGA", FIGHT SPORT HD BACKUP 1
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/01.m3u8
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1301-Mobile-Logo.png?" group-title="OLAHRAGA", SKY SPORT MAIN EVENT
-https://dl.dropbox.com/s/tmqwxrtoudpk0ck/skysportmain.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/800px-RACING.COM_logo_2016.svg.png" group-title="OLAHRAGA", RACING.COM (AUSTRALIA)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FpYX6yGLmpM/XCdxGu4_D_I/AAAAAAAAAAc/LVirYeQ2BHcUo5byscy1swM82nTWMYIhgCLcBGAs/s1600/powervu-key-sony-ten-1-hd-terbaru-2019.jpg" group-title="OLAHRAGA", SONY TEN 1
@@ -450,10 +448,12 @@ https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1301-Mobile-Logo.png?" group-title="OLAHRAGA", SKY SPORT MAIN EVENT
+https://cstream5.com/hls/skysports1.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Mobile-Logo.png" group-title="SKY TV", SKY SPORT ACTION
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+https://cstream5.com/hls/skysportsaction.m3u8
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Mobile-Logo.png" group-title="SKY TV", SKY SPORT ACTION BACKUP
+https://cstream5.com/hls/skysports2.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Mobile-Logo.png" group-title="SKY TV", SKY SPORT FOOTBALL
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1302-Mobile-Logo.png" group-title="SKY TV", SKY SPORT CRICKET
