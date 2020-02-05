@@ -127,17 +127,15 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID MNC PLAY OFFLINE
-https://liveanevia.mncnow.id/live/eds/FoxMovies/sa_hls/FoxMovies.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM ID (BACKUP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM
+http://idxcode.streamid.tv:25251/live/stream/ID/47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM BACKUP
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES MNC PLAY OFFLINE
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE MNC PLAY OFFLINE
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxLife.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIE ID(BACKUP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES
+http://idxcode.streamid.tv:25251/live/stream/ID/44.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIES
+http://idxcode.streamid.tv:25251/live/stream/ID/45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIES BACKUP
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM", STAR CHINESE MOVIE OFFLINE
 https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies.m3u8
@@ -145,7 +143,7 @@ https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies
 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO
-https://anevia115.mncnow.id:443/live/eds/HBO/sa_hls/HBO-avc1_499968=11.m3u8
+http://idxcode.streamid.tv:25251/live/stream/ID/51
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
@@ -329,6 +327,8 @@ https://dl.dropbox.com/s/6a4ieoakpcbil6a/Live6.m3u8?dl=0
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png" group-title="OLAHRAGA", ESPN
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/768px-ESPN_U_logo.svg.png" group-title="OLAHRAGA", ESPN U
+https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://20xqzw3baoah1okcnok3737p-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/EDGESport.jpg" group-title="OLAHRAGA", EDGE SPORT
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/445SdHDj/fightsports280.png" group-title="OLAHRAGA", FIGHT SPORT HD
