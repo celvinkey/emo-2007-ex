@@ -117,11 +117,11 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/KidsChannel.png/800px-KidsChannel.png" group-title="ANAK",Kids Channel
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ANAK", DREAMWORKS
-
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/351-3511665_larva-larva-logo-png-clipart.png" group-title="ANAK", LARVA
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 #EXTINF:-1 tvg-logo="" group-title="ANAK", SPACETOON PLUS
 
-#EXTINF:-1 tvg-logo="" group-title="ANAK", 
+
 #EXTINF:-1 tvg-logo="" group-title="ANAK", 
 
 
@@ -145,7 +145,7 @@ https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies
 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO
-http://idxcode.streamid.tv:25251/live/stream/ID/51
+http://51.159.21.231:2052/usapro2@source/799965@26641/1755
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
@@ -326,7 +326,9 @@ https://dl.dropbox.com/s/6a4ieoakpcbil6a/Live6.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT ESPN HD
 https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png" group-title="OLAHRAGA", ESPN
-http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
+http://51.159.21.231:2052/usapro2@source/799965@26641/1784
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png" group-title="OLAHRAGA", ESPN 2
+http://51.159.21.231:2052/usapro2@source/799965@26641/1783
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/768px-ESPN_U_logo.svg.png" group-title="OLAHRAGA", ESPN U
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://20xqzw3baoah1okcnok3737p-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/EDGESport.jpg" group-title="OLAHRAGA", EDGE SPORT
@@ -379,7 +381,15 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 tvg-logo="" group-title="MUSIK", 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/800px-USA_Network_logo_%282006%29.svg.png" group-title="TV AMERIKA", USA NETWORK
-
+http://51.159.21.231:2052/usapro2@source/799965@26641/1727
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png" group-title="TV AMERIKA", TNT
+http://51.159.21.231:2052/usapro2@source/799965@26641/1731
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/09/syfy-logo-2017-featured.jpg?w=621&h=383&crop=1" group-title="TV AMERIKA", SYFY
+http://51.159.21.231:2052/usapro2@source/799965@26641/1735
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1024px-Showtime.svg.png" group-title="TV AMERIKA", SHOWTIME
+http://51.159.21.231:2052/usapro2@source/799965@26641/1740
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1024px-FOX_wordmark.svg.png" group-title="TV AMERIKA", FOX
+http://51.159.21.231:2052/usapro2@source/799965@26641/1775
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
@@ -390,35 +400,11 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/KNTV_2008_Logo.png" group-title="TV AMERIKA", NBC BAY AREA
-https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
-#EXTINF:-1 tvg-logo="https://media.nbcmiami.com/2019/09/SouthFlorida_On_Dark@3x-1.png?fit=627%2C120" group-title="TV AMERIKA", NBC 6
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/800px-NBC_Sports_Bay_Area.png" group-title="TV AMERIKA", NBC SPORTS BAY AREA | HD
-http://day1.fast.family/live/550?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png" group-title="TV AMERIKA", NBC SPORTS BOSTON | HD
-http://day1.fast.family/live/546?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/800px-NBC_Sports_Chicago_Logo.svg.png" group-title="TV AMERIKA", NBC SPORTS CHICAGO | HD
-http://day1.fast.family/live/547?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/NBC_Sports_Northwest.png/800px-NBC_Sports_Northwest.png" group-title="TV AMERIKA", NBC SPORTS NORTHWEST | HD
-http://day1.fast.family/live/549?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/800px-NBC_Sports_Philadelphia.png" group-title="TV AMERIKA", NBC SPORTS PHILADELPHIA | HD
-http://day1.fast.family/live/545?u=2311859&s=96cad4a5179acff1ff347593ac8c31abba6371a7c03a08a7a5322fb39291a9f5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/American_Broadcasting_Company_2013_Logo.png" group-title="TV AMERIKA", ABC
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", CON TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", VOA PST
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", VOA EST
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 #EXTINF:-1 tvg-logo="" group-title="TV AMERIKA", 
 
@@ -460,11 +446,9 @@ http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="SIARAN GULAT", UFC HD
 http://78.141.211.61:4000/8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/800px-UFC_Fight_Pass_Logo.svg.png" group-title="SIARAN GULAT", UFC FIGHT PASS
-http://cdn2.rasp.tv/1484.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK (PREMIUM)
-http://s.igiptv.com:8000/Tamim/tamim123/60579
+http://51.159.21.231:2052/usapro2@source/799965@26641/1719
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/950px-WWE_Network_logo.svg.png" group-title="SIARAN GULAT", WWE NETWORK
-http://cdn2.rasp.tv/1483.ts
+http://51.159.21.231:2052/usapro2@source/799965@26641/1720
 #EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/914675323739254548/72BC91BACB54ACEF498C3DB9D4C0E082F4C61B20/" group-title="SIARAN GULAT", WWE NETWORK DAN NJWP
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/768px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="SIARAN GULAT", NJPW WORLD ENGLISH
