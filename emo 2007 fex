@@ -329,10 +329,8 @@ https://gma2.blab.email/espn2.m3u8
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="OLAHRAGA", ACCN ESPN
 https://gma2.blab.email/acc.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 3
-
-#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", BT SPORT 3
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-title="OLAHRAGA", SEC NETWORK
+https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-logo="https://20xqzw3baoah1okcnok3737p-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/EDGESport.jpg" group-title="OLAHRAGA", EDGE SPORT
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/445SdHDj/fightsports280.png" group-title="OLAHRAGA", FIGHT SPORT HD
@@ -437,8 +435,8 @@ https://cstream8.com/hls/skysportsarena.m3u8
 https://cstream5.com/hls/skysports1.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Mobile-Logo.png" group-title="SKY TV", SKY SPORTS ACTION
 https://cstream8.com/hls/skysportsaction.m3u8
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Mobile-Logo.png" group-title="SKY TV", SKY SPORTS ACTION BACKUP
-https://cstream5.com/hls/skysports2.m3u8
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1322-Mobile-Logo.svg?" group-title="SKY TV", SKY SPORTS GOLF
+https://cstream8.com/hls/skysportsgolf.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Mobile-Logo.png" group-title="SKY TV", SKY SPORTS FOOTBALL
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1302-Mobile-Logo.png" group-title="SKY TV", SKY SPORTS CRICKET
