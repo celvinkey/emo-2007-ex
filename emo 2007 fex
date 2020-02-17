@@ -490,14 +490,14 @@ https://dl.dropbox.com/s/tjlkcxhgdb29dul/beib2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Logo_de_la_Ligue_1_%282008%29.svg/658px-Logo_de_la_Ligue_1_%282008%29.svg.png" group-title="LIGA PRANCIS / LIGUE 1", 1
 https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="" group-title="TRUE SPORT", 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRUE SPORT", 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRUE SPORT", 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TRUE SPORT", 4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 1
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=8zOOHzs7&v=20200202
+#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 2
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=8zOOHzs7&v=20200202
+#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 3
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=8zOOHzs7&v=20200202
+#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 4
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=8zOOHzs7&v=20200202
 
 
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2018/03/Live-PNG-File.png" group-title="SIARAN ACAK", 1
