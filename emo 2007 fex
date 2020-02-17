@@ -301,8 +301,10 @@ https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/ff/Fox_Sports_3_Asia.jpg" group-title="OLAHRAGA", FOX SPORT 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png" group-title="OLAHRAGA", FOX SPORT 1 USA
+https://gma2.blab.email/fs1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1024px-FS2_logo_2015.svg.png" group-title="OLAHRAGA", FOX SPORT 2 USA
-https://dl.dropbox.com/s/1debsc482y8el17/foxs2.m3u8?dl=0
+http://edge1.docache.net/sports/foxsp2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/BeIN_Sports_1_Indonesia.jpg/799px-BeIN_Sports_1_Indonesia.jpg" group-title="OLAHRAGA", BeIN SPORT 1 
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/bb/BeIN_Sports_2_Indonesia.jpg/799px-BeIN_Sports_2_Indonesia.jpg" group-title="OLAHRAGA", BeIN SPORT 2 
@@ -386,7 +388,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/800px-USA_Network_logo_%282006%29.svg.png" group-title="TV AMERIKA", USA NETWORK
 http://51.159.21.231:2052/usapro2@source/799965@26641/1727
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/768px-TNT_Logo_2016.svg.png" group-title="TV AMERIKA", TNT
-http://51.159.21.231:2052/usapro2@source/799965@26641/1731
+http://edge1.docache.net/sports/tntus.m3u8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/09/syfy-logo-2017-featured.jpg?w=621&h=383&crop=1" group-title="TV AMERIKA", SYFY
 http://51.159.21.231:2052/usapro2@source/799965@26641/1735
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1024px-Showtime.svg.png" group-title="TV AMERIKA", SHOWTIME
