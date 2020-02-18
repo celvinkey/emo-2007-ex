@@ -22,7 +22,7 @@ https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-
 #EXTINF:-1 tvg-logo="https://tvri.go.id/assets/images/tvrilogo.png" group-title="LOKAL", TVRI 3 BUDAYA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="LOKAL", NET TV HD
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2642q4E.png" group-title="LOKAL", Trans TV
 https://anevia114.mncnow.id:443/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="LOKAL", Trans 7
@@ -141,26 +141,28 @@ https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 http://idxcode.streamid.tv:25251/live/stream/ID/45
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIES BACKUP
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM", STAR CHINESE MOVIE OFFLINE
-https://liveanevia.mncnow.id/live/eds/StarChineseMovies/sa_hls/StarChineseMovies.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM", STAR CHINESE MOVIES
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
+#EXTINF:-1  tvg-logo="https://tube.hk/images/tv_cache/c/400x400_23scm_legend_movies.jpg" group-title="FILM", STAR CHINESE MOVIES LEGEND
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 #EXTINF:-1  group-title="FILM", 
 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO
-http://51.159.21.231:2052/usapro2@source/799965@26641/1755
+https://dl.dropbox.com/s/jnalbk7ljjvx1y7/HBO.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY 
-
+https://dl.dropbox.com/s/1xn0isgkz3boutd/FAMILY.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="FILM", RED BY HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+https://dl.dropbox.com/s/244xt0gazo5a2nh/RED.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="FILM", MGM THE WORKS
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM", GALAXY
@@ -230,7 +232,7 @@ http://45.126.83.51/session/e7cdb510-a5a8-11e9-b3e6-a074a62c4134/uq2663/h/h143/0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjxGZYs2/Sony-Gem.png" group-title="VARIASI & HIBURAN", SONY GEM
 http://210.210.155.35/session/6f6388de-0197-11ea-8e41-c81f66f89318/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SBS-in_logo.png/800px-SBS-in_logo.png" group-title="VARIASI & HIBURAN", SBS-IN
-https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
+https://dl.dropbox.com/s/x753g8q3z6xzjyt/sbsin.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="VARIASI & HIBURAN", WAKU WAKU JAPAN
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png" group-title="VARIASI & HIBURAN", ABC AUSTRALIA
@@ -352,7 +354,7 @@ https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/800px-Sony_ESPN_logo.svg.png" group-title="OLAHRAGA", SONY ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png" group-title="OLAHRAGA", NBA HD INDONESIA
-https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
+https://dl.dropbox.com/s/dymrw97crgzkusf/nba.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png" group-title="OLAHRAGA", NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", CSAT (SABUNG AYAM)
@@ -492,13 +494,13 @@ https://dl.dropbox.com/s/tjlkcxhgdb29dul/beib2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Logo_de_la_Ligue_1_%282008%29.svg/658px-Logo_de_la_Ligue_1_%282008%29.svg.png" group-title="LIGA PRANCIS / LIGUE 1", 1
 https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 1
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_300.png" group-title="ASTRO SUPERSPORT", 1
 https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=8zOOHzs7&v=20200202
-#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_300.png" group-title="ASTRO SUPERSPORT", 2
 https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=8zOOHzs7&v=20200202
-#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 3
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="ASTRO SUPERSPORT", 3
 https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=8zOOHzs7&v=20200202
-#EXTINF:-1 tvg-logo="" group-title="ASTRO SUPERSPORT", 4
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="ASTRO SUPERSPORT", 4
 https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=8zOOHzs7&v=20200202
 
 
@@ -529,7 +531,7 @@ https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
 
 
 #EXTINF:-1  group-title="TES SIARAN", 1
-
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
 #EXTINF:-1  group-title="TES SIARAN", 2
 
 #EXTINF:-1  group-title="TES SIARAN", 3
