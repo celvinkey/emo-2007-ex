@@ -130,15 +130,15 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png" group-title="FILM", FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
+https://dl.dropbox.com/s/sgf12sqnp4vo6xq/foxhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM
-https://anevia114.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+https://dl.dropbox.com/s/sjro8jiyl296ep7/foxmovies.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/640px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="FILM", FOX MOVIES PREMIUM BACKUP
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/640px-FOX_Action_Movies_%282017%29.png" group-title="FILM", FOX ACTION MOVIES
-https://anevia115.mncnow.id:443/live/eds/FoxActionMovies/sa_hls/FoxActionMovies-avc1_149952=13-mp4a_66000_eng=2.m3u8
+https://dl.dropbox.com/s/3imiktf301ry0lu/foxaction.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIES
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+https://dl.dropbox.com/s/sl7fs5v9qtknxh2/foxfamily.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/df/FOX_Family_Movies_%282017%29.png/640px-FOX_Family_Movies_%282017%29.png" group-title="FILM", FOX FAMILY MOVIES BACKUP
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM", STAR CHINESE MOVIES
@@ -149,22 +149,20 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/213418ff-043c-4b6e-96a0-124d9fa09670.png" group-title="FILM", HBO
-https://dl.dropbox.com/s/jnalbk7ljjvx1y7/HBO.m3u8?dl=0
+https://dl.dropbox.com/s/j3jzpyu3spth6yv/hbohd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="FILM", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="FILM", HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY 
-https://dl.dropbox.com/s/1xn0isgkz3boutd/FAMILY.m3u8?dl=0
+https://dl.dropbox.com/s/91fnwvhvz0js1iw/hbofamily.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="FILM", HBO FAMILY (BACKUP)
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="FILM", CINEMAX ID
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+https://dl.dropbox.com/s/hd5rpo0bxc42g8a/cinemax.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="FILM", RED BY HBO
-https://dl.dropbox.com/s/244xt0gazo5a2nh/RED.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="FILM", MGM THE WORKS
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+https://dl.dropbox.com/s/kl3b6neq94k1m3r/redbyhbo.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="FILM", GALAXY
 https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="FILM", &PRIVE
@@ -194,23 +192,23 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="FILM", CELESTIAL CLASSIC MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="FILM", TvN MOVIE
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
+https://dl.dropbox.com/s/poj7v53i45cdvyx/tvnmovies.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="FILM", TvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1024px-Fox_life_logo.svg.png" group-title="VARIASI & HIBURAN", FOX LIFE
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+https://dl.dropbox.com/s/hmye0lv4ek12ixz/foxlife.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1024px-Fox_Crime_2017.svg.png" group-title="VARIASI & HIBURAN", FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="VARIASI & HIBURAN", FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+https://dl.dropbox.com/s/pq7yfbbbfraobm8/fx.m3u8?dl=0https://www.quibblo.com/story/DEBa-qn1/-WatchFullMovie-Sonic-the-Hedgehog-2020-OnlineHD
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" group-title="VARIASI & HIBURAN", WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" group-title="VARIASI & HIBURAN", WARNER TV BACKUP
 https://dl.dropbox.com/s/v2yni1a6gy495sp/Warnertv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/asia.axn/files/logos/axn_0.png" group-title="VARIASI & HIBURAN", AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+https://dl.dropbox.com/s/j3iw52g20sfp730/axn.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQ491Rz/diva.png" group-title="VARIASI & HIBURAN", DIVA ID
 https://anevia115.mncnow.id:443/live/eds/DIVA/sa_hls/DIVA-avc1_149952=13.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/768px-Lifetime_logo17.svg.png" group-title="VARIASI & HIBURAN", LIFETIME
@@ -224,7 +222,7 @@ https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZHrwsg0/kix.png" group-title="VARIASI & HIBURAN", KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMBLHZmm/Thrill.png" group-title="VARIASI & HIBURAN", THRILL
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+https://dl.dropbox.com/s/4nvytycvuljn6gj/thrill.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="VARIASI & HIBURAN", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4C8T6Hq/sony-one.png" group-title="VARIASI & HIBURAN", SONY ONE
